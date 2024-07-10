@@ -34,5 +34,6 @@ This code creates a program that effectively helps users visualize Hawaii's Reve
 
 ### Other Notes
 
+- Some descriptions may be inaccurate or untrue.
 - Nothing needs to be run to open this file.
 - D3 already imported in chart.js
