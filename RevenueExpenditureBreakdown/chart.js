@@ -331,7 +331,7 @@ async function drawStackChart() {
   drawPeripherals();
   //#endregion
 
-  //#region Net and Negative Buttons
+  //#region Net, Percent, and Negative Buttons
   const buttonWrapper = d3.select("#toggle-wrapper")
   const showNetDiv = buttonWrapper.append("div")
     .attr("class", "form-check form-switch")
