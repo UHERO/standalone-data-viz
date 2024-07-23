@@ -30,31 +30,29 @@ let dimensions = {
 }
 dimensions.margin = {
     top: 20,
-    right: 20, 
-    bottom: 300, 
+    right: 20,
+    bottom: 300,
     left: 80
 };
-dimensions.boundedWidth = dimensions.width 
-    - dimensions.margin.left 
+dimensions.boundedWidth = dimensions.width
+    - dimensions.margin.left
     - dimensions.margin.right;
-dimensions.boundedHeight = dimensions.height 
-    - dimensions.margin.top 
+dimensions.boundedHeight = dimensions.height
+    - dimensions.margin.top
     - dimensions.margin.bottom;
 
 const wrapper = d3.select("#wrapper")
     .append("svg")
-        .attr("class", "wrapper")
-        .attr("width", dimensions.width)
-        .attr("height", dimensions.height);
-    
+    .attr("class", "wrapper")
+    .attr("width", dimensions.width)
+    .attr("height", dimensions.height);
+
 const bounds = wrapper.append("g")
-    .attr("transform", `translate(${
-        dimensions.margin.left
-    },${
-        dimensions.margin.top
-    })`)
+    .attr("transform", `translate(${dimensions.margin.left
+        },${dimensions.margin.top
+        })`)
     .attr("class", "bounds");
-  
+
 const xScale = d3.scaleBand()
     .range([0, dimensions.boundedWidth])
     .domain(data.map(xAccessor))
@@ -71,17 +69,14 @@ const stack = d3.stack()
 
 const stackedData = stack(data);
 
-
-  
 const yScale = d3.scaleLinear()
     .range([dimensions.boundedHeight, 0])
     .domain([
-      d3.min(stackedData, layer => d3.min(layer, d => d[0])),
-      d3.max(stackedData, layer => d3.max(layer, d => d[1]))
+        d3.min(stackedData, layer => d3.min(layer, d => d[0])),
+        d3.max(stackedData, layer => d3.max(layer, d => d[1]))
     ])
     .nice();
 console.log(stackedData);
-
 
 let color = d3.scaleOrdinal()
     .range(d3.schemeSet3); // need to add in more colors, this isn't enough
@@ -89,13 +84,11 @@ let color = d3.scaleOrdinal()
 // temp fix, need better colors 
 // also negative numbers need to be red
 function generateColors(n) {
-    
     // https://using-d3js.com/04_05_sequential_scales.html
     console.log(d3.range(n).map(i => d3.interpolateRdYlGn(i / n)))
     return d3.range(n).map(i => d3.interpolateRdYlGn(i / n));
 }
 function generateColors2(n) {
-    
     // https://using-d3js.com/04_05_sequential_scales.html
     console.log(d3.range(n).map(i => d3.interpolateRdYlGn(i / n + 2 / n)))
     return d3.range(n).map(i => d3.interpolateRainbow(i / n + 4 / n));
@@ -121,9 +114,7 @@ const yAxisGenerator = d3.axisLeft()
 
 const xAxis = bounds.append("g") // now this doesn't work
     .attr("class", "x-axis")
-    .attr("transform", `translate(0, ${
-        dimensions.boundedHeight 
-    })`)
+    .attr("transform", `translate(0, ${dimensions.boundedHeight})`)
     .call(xAxisGenerator)
 
 const yAxis = bounds.append("g")
@@ -158,42 +149,42 @@ const yAxisLabel = yAxis.append("text")
 const stackGroups = bounds.selectAll("g.stack")
     .data(sortedStackedData)
     .join("g")
-        .attr("class", "stack") // these all get wiped out
-        .attr("fill", d => d[0][0] < 0 ? color(d.key) : color2(d.key))
-        .attr("class", d => d[0][0] < 0 ? "negative" : "positive")
-        .attr("class", d => `stack ${d[0][0] < 0 ? "negative" : "positive"} ${d.key.replace(/\.|\/|\,/g, "")}`)
+    .attr("class", "stack") // these all get wiped out
+    .attr("fill", d => d[0][0] < 0 ? color(d.key) : color2(d.key))
+    .attr("class", d => d[0][0] < 0 ? "negative" : "positive")
+    .attr("class", d => `stack ${d[0][0] < 0 ? "negative" : "positive"} ${d.key.replace(/\.|\/|\,/g, "")}`)
 
 var tooltipCategory = "";
 stackGroups.selectAll("rect")
     .data(d => d)
     .join("rect")
-        .attr("x", d => xScale(d.data.Year))
-        .attr("y", d => { // for the missing 2022-2023 values
-            const y = Math.min(yScale(d[0]), yScale(d[1]));
-            return isNaN(y) ? 0 : y;
-        })
-        .attr("height", d => { // same as above
-            const height = Math.abs(yScale(d[0]) - yScale(d[1]));
-            return isNaN(height) ? 0 : height;
-        })
-        .attr("width", xScale.bandwidth())
-        .attr("stroke", "steelblue") // border
-        .attr("stroke-width", 2)      
-        .on("mouseover", function(event, d) {
-            d3.select("body").on("mousemove", () => null);
-            mouseover(event, event.target.__data__);
-            const value = d[1] - d[0];
-            const displayValue = d[0] >= 0 ? value : -value;
-            tooltipCategory = tooltipCategory.replace(/[A-Z]|and|on\s+W|w\//g, str => ' ' + str); 
-            tooltip.transition()
-                .duration(200)
-                .style("opacity", .9);
-            tooltip.html(`${tooltipCategory}: \n$${numberWithCommas((Math.trunc(displayValue * 100 )/ 100).toFixed(1))} K`)
-                .style("left", `${event.pageX}px`)
-                .style("top", `${event.pageY - 28}px`);
-            })       
-        .on("mouseout", mouseout);
-        
+    .attr("x", d => xScale(d.data.Year))
+    .attr("y", d => { // for the missing 2022-2023 values
+        const y = Math.min(yScale(d[0]), yScale(d[1]));
+        return isNaN(y) ? 0 : y;
+    })
+    .attr("height", d => { // same as above
+        const height = Math.abs(yScale(d[0]) - yScale(d[1]));
+        return isNaN(height) ? 0 : height;
+    })
+    .attr("width", xScale.bandwidth())
+    .attr("stroke", "steelblue") // border
+    .attr("stroke-width", 2)
+    .on("mouseover", function (event, d) {
+        d3.select("body").on("mousemove", () => null);
+        mouseover(event, event.target.__data__);
+        const value = d[1] - d[0];
+        const displayValue = d[0] >= 0 ? value : -value;
+        tooltipCategory = tooltipCategory.replace(/[A-Z]|and|on\s+W|w\//g, str => ' ' + str);
+        tooltip.transition()
+            .duration(200)
+            .style("opacity", .9);
+        tooltip.html(`${tooltipCategory}: \n$${numberWithCommas((Math.trunc(displayValue * 100) / 100).toFixed(1))} K`)
+            .style("left", `${event.pageX}px`)
+            .style("top", `${event.pageY - 28}px`);
+    })
+    .on("mouseout", mouseout);
+
 d3.selectAll("rect")
     .attr("opacity", 0.8)
 function mouseover(event, d) {
@@ -217,8 +208,7 @@ function mouseover(event, d) {
         d3.selectAll("span").style("opacity", 0.2);
         d3.selectAll(`.${temp_key} span`).style("opacity", 0.8);
     }
-    showTooltip(); 
-
+    showTooltip();
 }
 
 function mouseout(d) {
@@ -238,14 +228,14 @@ function mouseout(d) {
 }
 // total revenue line
 const totalRevenueLine = d3.line()
-  .x(d => {
-    const x = xScale(d.Year) + xScale.bandwidth() / 2;
-    return x;
-  })
-  .y(d => {
-    const y = yScale(d.TotalRevenue);
-    return isNaN(y) ? 0 : y; // 2022 and 2023 missing total revenue
-  });
+    .x(d => {
+        const x = xScale(d.Year) + xScale.bandwidth() / 2;
+        return x;
+    })
+    .y(d => {
+        const y = yScale(d.TotalRevenue);
+        return isNaN(y) ? 0 : y; // 2022 and 2023 missing total revenue
+    });
 
 
 // line for x axis
@@ -282,9 +272,9 @@ const fakexAxis = bounds.append("line")
 // tooltip section
 const tooltip = d3.select("body")
     .append("div")
-        .attr("id", "chart")
-        .attr("class", "tooltip")
-        .on("mousemove", () => tooltip.style("opacity", 0))
+    .attr("id", "chart")
+    .attr("class", "tooltip")
+    .on("mousemove", () => tooltip.style("opacity", 0))
 
 d3.select("body")
     .on("mousemove", () => tooltip.style("opacity", 0));
@@ -301,8 +291,8 @@ stackGroups
 
 // legend div
 const legend = d3.select("#legend")
-    // .style("border", "10px solid red")
-    //.style("height", "300px")
+// .style("border", "10px solid red")
+//.style("height", "300px")
 
 // adding content to div
 const legendKeys = Object.keys(data[0])
@@ -314,7 +304,7 @@ for (let key of legendKeys) {
         let classColor = document.getElementsByClassName(key)[0].attributes.fill.nodeValue;
         (d3.selectAll(`.${key} span`))
             .style("background-color", classColor)
-            .on("mouseover", function(event, d) {
+            .on("mouseover", function (event, d) {
                 d3.selectAll("rect")
                     .attr("opacity", 0.2)
                 d3.selectAll(`.${key} rect`)
@@ -324,7 +314,7 @@ for (let key of legendKeys) {
                 d3.selectAll(`.${key} span`)
                     .style("opacity", 0.8)
             })
-            .on("mouseleave", function(event, d) {
+            .on("mouseleave", function (event, d) {
                 d3.selectAll("rect")
                     .attr("opacity", 0.8)
                 d3.selectAll(`span`)
@@ -360,19 +350,19 @@ console.log(checkboxes)
 let currentCheckboxes = [];
 let oldCheckboxes = [];
 
-checkboxes.forEach(function(checkbox) {
+checkboxes.forEach(function (checkbox) {
     checkbox.checked = true;
 }); // checking them all off at the start
 
 oldCheckboxes = Array.from(checkboxes)
-    .filter(i => i.checked) 
-    .map(i => i.parentNode.classList[1]) 
+    .filter(i => i.checked)
+    .map(i => i.parentNode.classList[1])
 
 // spamming checkboxes makes floating spaces
 let checkboxCooldown = false;
 
-checkboxes.forEach(function(checkbox) {
-    checkbox.addEventListener('change', function() {
+checkboxes.forEach(function (checkbox) {
+    checkbox.addEventListener('change', function () {
         // if (checkboxCooldown) return;
         checkboxCooldown = true;
         // checkboxes.forEach(cb => cb.disabled = true);
@@ -382,12 +372,12 @@ checkboxes.forEach(function(checkbox) {
         // }, 1000); // 1 second cooldown
 
         currentCheckboxes = Array.from(checkboxes)
-                .filter(i => i.checked) // only getting checked checkboxes
-                .map(i => i.parentNode.classList[1]); // get classname from parent div
+            .filter(i => i.checked) // only getting checked checkboxes
+            .map(i => i.parentNode.classList[1]); // get classname from parent div
         deletedCheckboxes = Array.from(checkboxes)
-                .filter(i => !i.checked) // only getting unchecked checkboxes
-                .map(i => i.parentNode.classList[1]); // get classname from parent div
-        
+            .filter(i => !i.checked) // only getting unchecked checkboxes
+            .map(i => i.parentNode.classList[1]); // get classname from parent div
+
         checkboxAnimation(); // both break
     });
 });
@@ -400,7 +390,7 @@ function checkboxAnimation() {
     //     return;
     // }
     tempData = JSON.parse(JSON.stringify(data)); // deep copying
-    tempData.forEach(function(year, i) {
+    tempData.forEach(function (year, i) {
         for (let metric in year) {
             let temp_metric = metric.replace(/\.|\/|\,/g, "");
             if (deletedCheckboxes.includes(temp_metric)) {
@@ -424,15 +414,15 @@ function checkboxAnimation() {
 
     yAxis.transition().duration(1000).call(yAxisGenerator);
 
-    
+
     let stackGroups = bounds.selectAll("g.stack")
         .data(newStack, d => d.key);
-        
+
     stackGroups.exit().selectAll("rect")
         .transition().duration(1000)
         .attr("height", 0)
-        .attr("y", function(d) {
-            console.log(d); 
+        .attr("y", function (d) {
+            console.log(d);
             return yScale(Math.max(0, d[0]));
         });
 
@@ -474,19 +464,19 @@ function checkboxAnimation() {
         .attr("y2", yScale(0));
 
     stackGroups.selectAll("rect")
-        .on("mouseover", function(event, d) {
+        .on("mouseover", function (event, d) {
             d3.select("body").on("mousemove", () => null);
             mouseover(event, event.target.__data__);
             const value = d[1] - d[0];
             const displayValue = d[0] >= 0 ? value : -value;
-            tooltipCategory = tooltipCategory.replace(/[A-Z]|and|on\s+W|w\//g, str => ' ' + str); 
+            tooltipCategory = tooltipCategory.replace(/[A-Z]|and|on\s+W|w\//g, str => ' ' + str);
             tooltip.transition()
                 .duration(200)
                 .style("opacity", .9);
-            tooltip.html(`${tooltipCategory}: \n$${numberWithCommas((Math.trunc(displayValue * 100 )/ 100).toFixed(1))} K`)
+            tooltip.html(`${tooltipCategory}: \n$${numberWithCommas((Math.trunc(displayValue * 100) / 100).toFixed(1))} K`)
                 .style("left", `${event.pageX}px`)
                 .style("top", `${event.pageY - 28}px`);
-            })       
+        })
         .on("mouseout", mouseout);
 }
 
@@ -496,9 +486,9 @@ function checkboxAnimation() {
 function checkboxAnimation2() {
     // https://stackoverflow.com/questions/1187518/how-to-get-the-difference-between-two-arrays-in-javascript
     let symDifference = oldCheckboxes.filter(x => !currentCheckboxes.includes(x))
-                            .concat(currentCheckboxes.filter(x => !oldCheckboxes.includes(x)));
+        .concat(currentCheckboxes.filter(x => !oldCheckboxes.includes(x)));
     tempData = JSON.parse(JSON.stringify(data)); // deep copying
-    tempData.forEach(function(year, i) {
+    tempData.forEach(function (year, i) {
         for (let metric in year) {
             let temp_metric = metric.replace(/\.|\/|\,/g, "");
             if (deletedCheckboxes.includes(temp_metric)) {
@@ -508,7 +498,7 @@ function checkboxAnimation2() {
     });
     let newStack = d3.stack()
         .keys(currentCheckboxes)
-        .offset(d3.stackOffsetDiverging); 
+        .offset(d3.stackOffsetDiverging);
     tempData = newStack(tempData);
     console.log(tempData);
     d3.selectAll(".stack rect")
@@ -517,44 +507,41 @@ function checkboxAnimation2() {
     let stackGroups = bounds.selectAll("g.stack")
         .data(tempData)
         .join("g")
-            .attr("class", "stack") // these all get wiped out
-            .attr("fill", d => d[0][0] < 0 ? color(d.key) : color2(d.key))
-            .attr("class", d => d[0][0] < 0 ? "negative" : "positive")
-            .attr("class", d => `stack ${d[0][0] < 0 ? "negative" : "positive"} ${d.key.replace(/\.|\/|\,/g, "")}`)
+        .attr("class", "stack") // these all get wiped out
+        .attr("fill", d => d[0][0] < 0 ? color(d.key) : color2(d.key))
+        .attr("class", d => d[0][0] < 0 ? "negative" : "positive")
+        .attr("class", d => `stack ${d[0][0] < 0 ? "negative" : "positive"} ${d.key.replace(/\.|\/|\,/g, "")}`)
     stackGroups.selectAll("rect")
         .data(d => d)
         .join("rect")
-            .attr("x", d => xScale(d.data.Year))
-            .attr("y", d => { // for the missing 2022-2023 values
-                const y = Math.min(yScale(d[0]), yScale(d[1]));
-                return isNaN(y) ? 0 : y;
-            })
-            .transition().duration(1000)
-            .attr("height", d => { // same as above
-                const height = Math.abs(yScale(d[0]) - yScale(d[1]));
-                return isNaN(height) ? 0 : height;
-            })
-            .attr("width", xScale.bandwidth())
-            .attr("opacity", 0.8)
-            .attr("stroke", "steelblue") // border
-            .attr("stroke-width", 2)      
-            .on("mouseover", function(event, d) {
-                d3.select("body").on("mousemove", () => null);
-                mouseover(event, event.target.__data__);
-                const value = d[1] - d[0];
-                const displayValue = d[0] >= 0 ? value : -value;
-                tooltipCategory = tooltipCategory.replace(/[A-Z]|and|on\s+W|w\//g, str => ' ' + str); 
-                tooltip.transition()
-                    .duration(200)
-                    .style("opacity", .9);
-                tooltip.html(`${tooltipCategory}: \n$${numberWithCommas((Math.trunc(displayValue * 100 )/ 100).toFixed(1))} K`)
-                    .style("left", `${event.pageX}px`)
-                    .style("top", `${event.pageY - 28}px`);
-                })       
-            .on("mouseout", mouseout);
-
-
-
+        .attr("x", d => xScale(d.data.Year))
+        .attr("y", d => { // for the missing 2022-2023 values
+            const y = Math.min(yScale(d[0]), yScale(d[1]));
+            return isNaN(y) ? 0 : y;
+        })
+        .transition().duration(1000)
+        .attr("height", d => { // same as above
+            const height = Math.abs(yScale(d[0]) - yScale(d[1]));
+            return isNaN(height) ? 0 : height;
+        })
+        .attr("width", xScale.bandwidth())
+        .attr("opacity", 0.8)
+        .attr("stroke", "steelblue") // border
+        .attr("stroke-width", 2)
+        .on("mouseover", function (event, d) {
+            d3.select("body").on("mousemove", () => null);
+            mouseover(event, event.target.__data__);
+            const value = d[1] - d[0];
+            const displayValue = d[0] >= 0 ? value : -value;
+            tooltipCategory = tooltipCategory.replace(/[A-Z]|and|on\s+W|w\//g, str => ' ' + str);
+            tooltip.transition()
+                .duration(200)
+                .style("opacity", .9);
+            tooltip.html(`${tooltipCategory}: \n$${numberWithCommas((Math.trunc(displayValue * 100) / 100).toFixed(1))} K`)
+                .style("left", `${event.pageX}px`)
+                .style("top", `${event.pageY - 28}px`);
+        })
+        .on("mouseout", mouseout);
 }
 
 
