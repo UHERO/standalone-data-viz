@@ -1,0 +1,1784 @@
+degfield,degfield_desc,fips,state_name,est_inc,eb,libarts_mean
+99,Economics,1,Alabama,117674.67,.40056092,84019.672
+35,Library Science,1,Alabama,94228.766,.1215084,84019.672
+53,Criminal Justice and Fire Protection,1,Alabama,88830.43,.057257481,84019.672
+29,Family and Consumer Sciences,1,Alabama,90843.859,.08122126,84019.672
+55,Social Sciences,1,Alabama,97343.227,.15857661,84019.672
+61,Medical and Health Sciences and Services,1,Alabama,115288.38,.37215936,84019.672
+14,Architecture,1,Alabama,98827.828,.17624629,84019.672
+19,Communications,1,Alabama,98139.203,.16805032,84019.672
+59,Transportation Sciences and Technologies,1,Alabama,115391.1,.373382,84019.672
+41,"Physical Fitness, Parks, Recreation, and Leisure",1,Alabama,87207.891,.03794606,84019.672
+60,Fine Arts,1,Alabama,75291.797,-.1038789,84019.672
+13,Environment and Natural Resources,1,Alabama,97984.125,.16620453,84019.672
+22,Cosmetology Services and Culinary Arts,1,Alabama,94490.953,.12462895,84019.672
+62,Business,1,Alabama,104786.18,.24716249,84019.672
+33,"English Language, Literature, and Composition",1,Alabama,90860.078,.08141432,84019.672
+24,Engineering,1,Alabama,125986.77,.49949139,84019.672
+40,Interdisciplinary and Multi-Disciplinary Studies (General),1,Alabama,96413.25,.14750807,84019.672
+25,Engineering Technologies,1,Alabama,108260.27,.28851095,84019.672
+37,Mathematics and Statistics,1,Alabama,110697.44,.31751806,84019.672
+32,Law,1,Alabama,94296.344,.12231267,84019.672
+52,Psychology,1,Alabama,89258.648,.062354211,84019.672
+36,Biology and Life Sciences,1,Alabama,113380.8,.34945542,84019.672
+23,Education Administration and Teaching,1,Alabama,89308.32,.062945321,84019.672
+48,Philosophy and Religious Studies,1,Alabama,91627.242,.090545133,84019.672
+11,Agriculture,1,Alabama,97993.211,.16631266,84019.672
+56,Construction Services,1,Alabama,114029.63,.3571777,84019.672
+50,Physical Sciences,1,Alabama,120026.71,.42855486,84019.672
+26,Linguistics and Foreign Languages,1,Alabama,95340.969,.13474582,84019.672
+64,History,1,Alabama,90002.586,.071208522,84019.672
+15,"Area, Ethnic, and Civilization Studies",1,Alabama,98044.531,.16692348,84019.672
+21,Computer and Information Sciences,1,Alabama,102224.8,.21667691,84019.672
+51,"Nuclear, Industrial Radiology, and Biological Technologies",1,Alabama,106969.89,.27315295,84019.672
+20,Communication Technologies,1,Alabama,97589.711,.16151029,84019.672
+49,Theology and Religious Vocations,1,Alabama,74078.664,-.11831762,84019.672
+54,"Public Affairs, Policy, and Social Work",1,Alabama,91667.516,.091024414,84019.672
+48,Philosophy and Religious Studies,2,Alaska,114223.92,.27072194,89889
+14,Architecture,2,Alaska,113133.37,.25858971,89889
+29,Family and Consumer Sciences,2,Alaska,112815.7,.25505576,89889
+25,Engineering Technologies,2,Alaska,111436.2,.23970903,89889
+26,Linguistics and Foreign Languages,2,Alaska,113888.55,.26699096,89889
+36,Biology and Life Sciences,2,Alaska,110595.21,.23035313,89889
+61,Medical and Health Sciences and Services,2,Alaska,104241.87,.15967324,89889
+20,Communication Technologies,2,Alaska,112552.12,.25212333,89889
+13,Environment and Natural Resources,2,Alaska,112906.97,.256071,89889
+55,Social Sciences,2,Alaska,114533.32,.2741639,89889
+21,Computer and Information Sciences,2,Alaska,112278.16,.24907562,89889
+33,"English Language, Literature, and Composition",2,Alaska,114934.11,.27862266,89889
+24,Engineering,2,Alaska,108669.06,.20892499,89889
+23,Education Administration and Teaching,2,Alaska,113712.86,.2650364,89889
+54,"Public Affairs, Policy, and Social Work",2,Alaska,114503.52,.27383244,89889
+53,Criminal Justice and Fire Protection,2,Alaska,113937.34,.26753378,89889
+64,History,2,Alaska,112784.09,.25470409,89889
+15,"Area, Ethnic, and Civilization Studies",2,Alaska,112910.29,.25610799,89889
+32,Law,2,Alaska,111836.24,.2441594,89889
+51,"Nuclear, Industrial Radiology, and Biological Technologies",2,Alaska,112809.22,.2549836,89889
+52,Psychology,2,Alaska,115945.62,.28987548,89889
+49,Theology and Religious Vocations,2,Alaska,111829.53,.24408469,89889
+37,Mathematics and Statistics,2,Alaska,111341.08,.2386508,89889
+35,Library Science,2,Alaska,107685.11,.19797873,89889
+99,Economics,2,Alaska,107364.09,.19440743,89889
+41,"Physical Fitness, Parks, Recreation, and Leisure",2,Alaska,113566.96,.26341337,89889
+50,Physical Sciences,2,Alaska,112911.81,.25612494,89889
+11,Agriculture,2,Alaska,112659,.25331244,89889
+59,Transportation Sciences and Technologies,2,Alaska,105123.54,.16948171,89889
+19,Communications,2,Alaska,113240.29,.25977919,89889
+62,Business,2,Alaska,111366.39,.23893239,89889
+56,Construction Services,2,Alaska,110609.09,.23050752,89889
+60,Fine Arts,2,Alaska,123864.41,.37797064,89889
+22,Cosmetology Services and Culinary Arts,2,Alaska,113322.06,.2606889,89889
+40,Interdisciplinary and Multi-Disciplinary Studies (General),2,Alaska,112867.73,.25563446,89889
+51,"Nuclear, Industrial Radiology, and Biological Technologies",4,Arizona,129596.55,.39718449,92755.5
+36,Biology and Life Sciences,4,Arizona,124556.12,.3428435,92755.5
+62,Business,4,Arizona,115693.58,.24729612,92755.5
+19,Communications,4,Arizona,103858.57,.11970253,92755.5
+22,Cosmetology Services and Culinary Arts,4,Arizona,98566.5,.062648594,92755.5
+26,Linguistics and Foreign Languages,4,Arizona,97866.023,.055096675,92755.5
+11,Agriculture,4,Arizona,105124.74,.1333532,92755.5
+15,"Area, Ethnic, and Civilization Studies",4,Arizona,104062.36,.12189957,92755.5
+53,Criminal Justice and Fire Protection,4,Arizona,98530.633,.062261872,92755.5
+50,Physical Sciences,4,Arizona,115600.84,.24629639,92755.5
+24,Engineering,4,Arizona,133711.09,.44154352,92755.5
+52,Psychology,4,Arizona,103614.64,.11707276,92755.5
+25,Engineering Technologies,4,Arizona,121284.2,.30756879,92755.5
+99,Economics,4,Arizona,128291.9,.38311905,92755.5
+60,Fine Arts,4,Arizona,78914.711,-.14921796,92755.5
+48,Philosophy and Religious Studies,4,Arizona,87206.953,-.059819091,92755.5
+55,Social Sciences,4,Arizona,102443.95,.10445152,92755.5
+33,"English Language, Literature, and Composition",4,Arizona,90565.859,-.023606595,92755.5
+41,"Physical Fitness, Parks, Recreation, and Leisure",4,Arizona,103202.75,.11263216,92755.5
+56,Construction Services,4,Arizona,131142.88,.41385543,92755.5
+54,"Public Affairs, Policy, and Social Work",4,Arizona,95080.891,.025070075,92755.5
+23,Education Administration and Teaching,4,Arizona,87297.836,-.058839288,92755.5
+14,Architecture,4,Arizona,106828.03,.15171644,92755.5
+20,Communication Technologies,4,Arizona,98084.625,.057453472,92755.5
+13,Environment and Natural Resources,4,Arizona,103676.2,.11773641,92755.5
+59,Transportation Sciences and Technologies,4,Arizona,120923.82,.30368358,92755.5
+64,History,4,Arizona,96200.547,.037141141,92755.5
+35,Library Science,4,Arizona,109328.71,.17867631,92755.5
+32,Law,4,Arizona,104983.06,.13182575,92755.5
+29,Family and Consumer Sciences,4,Arizona,86671.383,-.065593101,92755.5
+49,Theology and Religious Vocations,4,Arizona,73057.273,-.21236724,92755.5
+21,Computer and Information Sciences,4,Arizona,118465.15,.2771765,92755.5
+61,Medical and Health Sciences and Services,4,Arizona,119586.18,.28926244,92755.5
+40,Interdisciplinary and Multi-Disciplinary Studies (General),4,Arizona,103737.42,.11839648,92755.5
+37,Mathematics and Statistics,4,Arizona,114858.3,.23829098,92755.5
+56,Construction Services,5,Arkansas,103884.83,.29779345,80047.273
+32,Law,5,Arkansas,91951.992,.14872108,80047.273
+64,History,5,Arkansas,81447.328,.017490366,80047.273
+55,Social Sciences,5,Arkansas,89020.383,.11209764,80047.273
+26,Linguistics and Foreign Languages,5,Arkansas,84771.117,.059013221,80047.273
+25,Engineering Technologies,5,Arkansas,97503.281,.21807119,80047.273
+54,"Public Affairs, Policy, and Social Work",5,Arkansas,84480.586,.055383686,80047.273
+24,Engineering,5,Arkansas,110790.45,.38406271,80047.273
+37,Mathematics and Statistics,5,Arkansas,94630.906,.18218775,80047.273
+11,Agriculture,5,Arkansas,92502.797,.15560205,80047.273
+60,Fine Arts,5,Arkansas,77155.727,-.036122993,80047.273
+59,Transportation Sciences and Technologies,5,Arkansas,107598.45,.34418634,80047.273
+29,Family and Consumer Sciences,5,Arkansas,81064.711,.012710496,80047.273
+21,Computer and Information Sciences,5,Arkansas,102420.73,.27950311,80047.273
+35,Library Science,5,Arkansas,92858.289,.16004311,80047.273
+49,Theology and Religious Vocations,5,Arkansas,74222.391,-.07276807,80047.273
+53,Criminal Justice and Fire Protection,5,Arkansas,86915.5,.085802153,80047.273
+62,Business,5,Arkansas,103587.09,.294074,80047.273
+20,Communication Technologies,5,Arkansas,89565.234,.11890423,80047.273
+36,Biology and Life Sciences,5,Arkansas,109932.18,.37334076,80047.273
+13,Environment and Natural Resources,5,Arkansas,92172.172,.15147173,80047.273
+51,"Nuclear, Industrial Radiology, and Biological Technologies",5,Arkansas,100222.35,.25203952,80047.273
+40,Interdisciplinary and Multi-Disciplinary Studies (General),5,Arkansas,89737.32,.1210541,80047.273
+22,Cosmetology Services and Culinary Arts,5,Arkansas,89071.992,.1127424,80047.273
+99,Economics,5,Arkansas,116114.31,.45057178,80047.273
+19,Communications,5,Arkansas,92551.063,.15620507,80047.273
+33,"English Language, Literature, and Composition",5,Arkansas,88213.352,.10201573,80047.273
+48,Philosophy and Religious Studies,5,Arkansas,79847.672,-.0024935228,80047.273
+50,Physical Sciences,5,Arkansas,108536.89,.35590994,80047.273
+52,Psychology,5,Arkansas,87338.852,.091090918,80047.273
+41,"Physical Fitness, Parks, Recreation, and Leisure",5,Arkansas,85993.375,.074282393,80047.273
+61,Medical and Health Sciences and Services,5,Arkansas,110314.02,.37811092,80047.273
+23,Education Administration and Teaching,5,Arkansas,83864.805,.047690958,80047.273
+14,Architecture,5,Arkansas,92309.406,.15318617,80047.273
+15,"Area, Ethnic, and Civilization Studies",5,Arkansas,92213.352,.1519862,80047.273
+24,Engineering,6,California,181707.44,.58034909,114979.3
+26,Linguistics and Foreign Languages,6,California,121615.97,.057720527,114979.3
+33,"English Language, Literature, and Composition",6,California,126974.08,.10432115,114979.3
+36,Biology and Life Sciences,6,California,160230.11,.39355606,114979.3
+56,Construction Services,6,California,166763.61,.45037931,114979.3
+62,Business,6,California,144061.2,.25293162,114979.3
+15,"Area, Ethnic, and Civilization Studies",6,California,132183.25,.14962649,114979.3
+37,Mathematics and Statistics,6,California,162176.17,.41048136,114979.3
+29,Family and Consumer Sciences,6,California,106248.45,-.075934179,114979.3
+35,Library Science,6,California,112877.04,-.018283837,114979.3
+61,Medical and Health Sciences and Services,6,California,153567.23,.33560765,114979.3
+13,Environment and Natural Resources,6,California,134925.36,.17347522,114979.3
+40,Interdisciplinary and Multi-Disciplinary Studies (General),6,California,137819.52,.19864629,114979.3
+21,Computer and Information Sciences,6,California,178106.53,.54903126,114979.3
+11,Agriculture,6,California,134903.77,.17328738,114979.3
+55,Social Sciences,6,California,137707.34,.19767064,114979.3
+53,Criminal Justice and Fire Protection,6,California,124643.86,.084054716,114979.3
+25,Engineering Technologies,6,California,159905.22,.39073041,114979.3
+99,Economics,6,California,166891.28,.45148978,114979.3
+48,Philosophy and Religious Studies,6,California,125827.34,.094347715,114979.3
+50,Physical Sciences,6,California,161145.72,.4015193,114979.3
+22,Cosmetology Services and Culinary Arts,6,California,109384.59,-.048658498,114979.3
+41,"Physical Fitness, Parks, Recreation, and Leisure",6,California,114461.88,-.004500133,114979.3
+59,Transportation Sciences and Technologies,6,California,140930.28,.22570124,114979.3
+19,Communications,6,California,132419.84,.15168409,114979.3
+32,Law,6,California,141995.97,.23496974,114979.3
+51,"Nuclear, Industrial Radiology, and Biological Technologies",6,California,132465.28,.1520793,114979.3
+64,History,6,California,136200.52,.18456551,114979.3
+20,Communication Technologies,6,California,127809.48,.11158679,114979.3
+49,Theology and Religious Vocations,6,California,79825.883,-.30573693,114979.3
+14,Architecture,6,California,140079.72,.21830374,114979.3
+60,Fine Arts,6,California,108725.02,-.054394905,114979.3
+52,Psychology,6,California,126789.37,.10271465,114979.3
+23,Education Administration and Teaching,6,California,110902.66,-.035455476,114979.3
+54,"Public Affairs, Policy, and Social Work",6,California,123722.84,.07604444,114979.3
+53,Criminal Justice and Fire Protection,8,Colorado,98713.93,.02777455,96046.289
+48,Philosophy and Religious Studies,8,Colorado,98989.508,.030643746,96046.289
+41,"Physical Fitness, Parks, Recreation, and Leisure",8,Colorado,93943.383,-.021894677,96046.289
+23,Education Administration and Teaching,8,Colorado,84308.813,-.12220643,96046.289
+60,Fine Arts,8,Colorado,81789.164,-.14844018,96046.289
+15,"Area, Ethnic, and Civilization Studies",8,Colorado,104053.25,.083365664,96046.289
+22,Cosmetology Services and Culinary Arts,8,Colorado,99147.359,.032287236,96046.289
+24,Engineering,8,Colorado,134668.81,.40212408,96046.289
+52,Psychology,8,Colorado,99370.258,.034608021,96046.289
+55,Social Sciences,8,Colorado,105982.88,.10345621,96046.289
+36,Biology and Life Sciences,8,Colorado,117899.02,.22752286,96046.289
+13,Environment and Natural Resources,8,Colorado,104627.6,.089345567,96046.289
+33,"English Language, Literature, and Composition",8,Colorado,97639.563,.016588559,96046.289
+49,Theology and Religious Vocations,8,Colorado,76723.023,-.201187,96046.289
+64,History,8,Colorado,99625.813,.037268769,96046.289
+40,Interdisciplinary and Multi-Disciplinary Studies (General),8,Colorado,100852.16,.050037026,96046.289
+50,Physical Sciences,8,Colorado,119660.25,.24586025,96046.289
+26,Linguistics and Foreign Languages,8,Colorado,98559.406,.026165679,96046.289
+59,Transportation Sciences and Technologies,8,Colorado,120349.92,.25304085,96046.289
+25,Engineering Technologies,8,Colorado,117345.91,.22176406,96046.289
+61,Medical and Health Sciences and Services,8,Colorado,117082.73,.21902397,96046.289
+37,Mathematics and Statistics,8,Colorado,120423.29,.25380474,96046.289
+99,Economics,8,Colorado,129019.7,.34330752,96046.289
+56,Construction Services,8,Colorado,131263.95,.36667389,96046.289
+62,Business,8,Colorado,121134.06,.26120502,96046.289
+29,Family and Consumer Sciences,8,Colorado,94409.078,-.017046094,96046.289
+11,Agriculture,8,Colorado,104936.91,.092566051,96046.289
+19,Communications,8,Colorado,105692.5,.10043295,96046.289
+21,Computer and Information Sciences,8,Colorado,120769.87,.25741315,96046.289
+35,Library Science,8,Colorado,107196.45,.11609153,96046.289
+20,Communication Technologies,8,Colorado,105134.94,.094627805,96046.289
+32,Law,8,Colorado,104576.95,.088818178,96046.289
+51,"Nuclear, Industrial Radiology, and Biological Technologies",8,Colorado,128680.35,.33977428,96046.289
+54,"Public Affairs, Policy, and Social Work",8,Colorado,92237.359,-.03965719,96046.289
+14,Architecture,8,Colorado,106555,.10941295,96046.289
+61,Medical and Health Sciences and Services,9,Connecticut,166363.67,.35297179,122961.67
+50,Physical Sciences,9,Connecticut,168913.2,.37370613,122961.67
+51,"Nuclear, Industrial Radiology, and Biological Technologies",9,Connecticut,152916.97,.24361491,122961.67
+55,Social Sciences,9,Connecticut,157106.73,.27768865,122961.67
+14,Architecture,9,Connecticut,150049.08,.22029151,122961.67
+13,Environment and Natural Resources,9,Connecticut,149490.08,.2157453,122961.67
+33,"English Language, Literature, and Composition",9,Connecticut,145201.58,.18086858,122961.67
+26,Linguistics and Foreign Languages,9,Connecticut,146726.8,.19327256,122961.67
+15,"Area, Ethnic, and Civilization Studies",9,Connecticut,149815.38,.21839088,122961.67
+11,Agriculture,9,Connecticut,149585.81,.21652384,122961.67
+32,Law,9,Connecticut,147796.42,.20197143,122961.67
+20,Communication Technologies,9,Connecticut,148002.03,.20364363,122961.67
+41,"Physical Fitness, Parks, Recreation, and Leisure",9,Connecticut,135397.94,.10113934,122961.67
+52,Psychology,9,Connecticut,147085.25,.19618778,122961.67
+49,Theology and Religious Vocations,9,Connecticut,120886.19,-.016879143,122961.67
+23,Education Administration and Teaching,9,Connecticut,141064.08,.14721996,122961.67
+29,Family and Consumer Sciences,9,Connecticut,136999.36,.11416309,122961.67
+99,Economics,9,Connecticut,197986.42,.61014748,122961.67
+40,Interdisciplinary and Multi-Disciplinary Studies (General),9,Connecticut,145518.47,.18344574,122961.67
+37,Mathematics and Statistics,9,Connecticut,178095.61,.44838312,122961.67
+62,Business,9,Connecticut,169320.14,.37701562,122961.67
+25,Engineering Technologies,9,Connecticut,151268.31,.23020703,122961.67
+56,Construction Services,9,Connecticut,171480.16,.39458224,122961.67
+22,Cosmetology Services and Culinary Arts,9,Connecticut,146339.69,.19012439,122961.67
+35,Library Science,9,Connecticut,129845.66,.055984799,122961.67
+64,History,9,Connecticut,153363.48,.24724622,122961.67
+21,Computer and Information Sciences,9,Connecticut,160330.09,.30390295,122961.67
+59,Transportation Sciences and Technologies,9,Connecticut,162599.06,.32235572,122961.67
+24,Engineering,9,Connecticut,174960.25,.42288446,122961.67
+53,Criminal Justice and Fire Protection,9,Connecticut,139646.22,.13568904,122961.67
+60,Fine Arts,9,Connecticut,116531.5,-.052294113,122961.67
+36,Biology and Life Sciences,9,Connecticut,176244.61,.4333297,122961.67
+19,Communications,9,Connecticut,149924.05,.21927468,122961.67
+54,"Public Affairs, Policy, and Social Work",9,Connecticut,140282.95,.14086734,122961.67
+48,Philosophy and Religious Studies,9,Connecticut,151904.63,.23538186,122961.67
+11,Agriculture,10,Delaware,110146.97,.15688528,95209.93
+62,Business,10,Delaware,114948.66,.20731798,95209.93
+13,Environment and Natural Resources,10,Delaware,109793.01,.15316762,95209.93
+56,Construction Services,10,Delaware,120859,.2693949,95209.93
+64,History,10,Delaware,116368.97,.22223563,95209.93
+26,Linguistics and Foreign Languages,10,Delaware,108493.55,.13951935,95209.93
+19,Communications,10,Delaware,109588.95,.15102445,95209.93
+21,Computer and Information Sciences,10,Delaware,117129.76,.23022631,95209.93
+22,Cosmetology Services and Culinary Arts,10,Delaware,109824.95,.15350311,95209.93
+48,Philosophy and Religious Studies,10,Delaware,103769.3,.089899935,95209.93
+37,Mathematics and Statistics,10,Delaware,117827.96,.23755959,95209.93
+52,Psychology,10,Delaware,104106.11,.093437485,95209.93
+50,Physical Sciences,10,Delaware,121431.27,.2754055,95209.93
+49,Theology and Religious Vocations,10,Delaware,86342.648,-.093133971,95209.93
+29,Family and Consumer Sciences,10,Delaware,103010.92,.081934661,95209.93
+59,Transportation Sciences and Technologies,10,Delaware,121234.73,.27334124,95209.93
+36,Biology and Life Sciences,10,Delaware,132990.48,.39681312,95209.93
+20,Communication Technologies,10,Delaware,109152.4,.14643921,95209.93
+61,Medical and Health Sciences and Services,10,Delaware,125443.48,.31754613,95209.93
+24,Engineering,10,Delaware,126806.09,.33185786,95209.93
+41,"Physical Fitness, Parks, Recreation, and Leisure",10,Delaware,96149.508,.0098684933,95209.93
+54,"Public Affairs, Policy, and Social Work",10,Delaware,95942.719,.0076965676,95209.93
+23,Education Administration and Teaching,10,Delaware,104534.57,.097937681,95209.93
+40,Interdisciplinary and Multi-Disciplinary Studies (General),10,Delaware,99127.281,.041144397,95209.93
+14,Architecture,10,Delaware,111977.47,.17611127,95209.93
+99,Economics,10,Delaware,125745.07,.32071379,95209.93
+60,Fine Arts,10,Delaware,81406.563,-.14497823,95209.93
+33,"English Language, Literature, and Composition",10,Delaware,102664.27,.078293711,95209.93
+55,Social Sciences,10,Delaware,115167.94,.2096211,95209.93
+35,Library Science,10,Delaware,116439.58,.22297722,95209.93
+53,Criminal Justice and Fire Protection,10,Delaware,103949.12,.091788605,95209.93
+32,Law,10,Delaware,106561.01,.11922161,95209.93
+25,Engineering Technologies,10,Delaware,117026.69,.22914369,95209.93
+15,"Area, Ethnic, and Civilization Studies",10,Delaware,109863.3,.15390584,95209.93
+52,Psychology,11,District of Columbia,153276.09,.2449732,123115.98
+36,Biology and Life Sciences,11,District of Columbia,159245.64,.29346031,123115.98
+60,Fine Arts,11,District of Columbia,142015.11,.15350665,123115.98
+14,Architecture,11,District of Columbia,153856.8,.24968983,123115.98
+41,"Physical Fitness, Parks, Recreation, and Leisure",11,District of Columbia,155819.66,.26563302,123115.98
+62,Business,11,District of Columbia,161308.47,.31021544,123115.98
+13,Environment and Natural Resources,11,District of Columbia,153951.03,.25045532,123115.98
+26,Linguistics and Foreign Languages,11,District of Columbia,151129.03,.22753382,123115.98
+25,Engineering Technologies,11,District of Columbia,158560.7,.28789693,123115.98
+20,Communication Technologies,11,District of Columbia,154041.33,.25118873,123115.98
+19,Communications,11,District of Columbia,154036.33,.25114805,123115.98
+35,Library Science,11,District of Columbia,148119.86,.20309202,123115.98
+99,Economics,11,District of Columbia,172457.11,.40076941,123115.98
+15,"Area, Ethnic, and Civilization Studies",11,District of Columbia,154205.39,.25252125,123115.98
+59,Transportation Sciences and Technologies,11,District of Columbia,153927.89,.25026736,123115.98
+29,Family and Consumer Sciences,11,District of Columbia,151168.77,.22785655,123115.98
+48,Philosophy and Religious Studies,11,District of Columbia,156142.73,.2682572,123115.98
+50,Physical Sciences,11,District of Columbia,163947.95,.33165446,123115.98
+21,Computer and Information Sciences,11,District of Columbia,155702.28,.26467967,123115.98
+22,Cosmetology Services and Culinary Arts,11,District of Columbia,151660.25,.23184852,123115.98
+40,Interdisciplinary and Multi-Disciplinary Studies (General),11,District of Columbia,156682.09,.27263817,123115.98
+53,Criminal Justice and Fire Protection,11,District of Columbia,154639.55,.25604764,123115.98
+33,"English Language, Literature, and Composition",11,District of Columbia,152811.36,.24119836,123115.98
+49,Theology and Religious Vocations,11,District of Columbia,144875.89,.17674311,123115.98
+61,Medical and Health Sciences and Services,11,District of Columbia,158833.56,.29011327,123115.98
+24,Engineering,11,District of Columbia,171925.48,.39645135,123115.98
+11,Agriculture,11,District of Columbia,154070.81,.25142813,123115.98
+64,History,11,District of Columbia,159354.41,.29434377,123115.98
+55,Social Sciences,11,District of Columbia,161447.06,.31134114,123115.98
+32,Law,11,District of Columbia,155873.09,.26606706,123115.98
+56,Construction Services,11,District of Columbia,153567.98,.247344,123115.98
+54,"Public Affairs, Policy, and Social Work",11,District of Columbia,154309.69,.25336844,123115.98
+51,"Nuclear, Industrial Radiology, and Biological Technologies",11,District of Columbia,159491.3,.29545566,123115.98
+23,Education Administration and Teaching,11,District of Columbia,141473.98,.14911148,123115.98
+37,Mathematics and Statistics,11,District of Columbia,162694.53,.32147372,123115.98
+22,Cosmetology Services and Culinary Arts,12,Florida,94401.219,.028611641,91775.375
+11,Agriculture,12,Florida,101749.28,.10867736,91775.375
+61,Medical and Health Sciences and Services,12,Florida,120183.43,.30953893,91775.375
+40,Interdisciplinary and Multi-Disciplinary Studies (General),12,Florida,100405,.094029889,91775.375
+37,Mathematics and Statistics,12,Florida,116904.93,.2738159,91775.375
+56,Construction Services,12,Florida,120908.1,.31743509,91775.375
+20,Communication Technologies,12,Florida,96444.75,.050878335,91775.375
+13,Environment and Natural Resources,12,Florida,101271.13,.1034674,91775.375
+19,Communications,12,Florida,101382.55,.10468147,91775.375
+62,Business,12,Florida,112637.54,.22731763,91775.375
+64,History,12,Florida,102361.84,.11535198,91775.375
+29,Family and Consumer Sciences,12,Florida,90932.953,-.0091791982,91775.375
+52,Psychology,12,Florida,98405.766,.072245836,91775.375
+24,Engineering,12,Florida,121945.87,.32874277,91775.375
+99,Economics,12,Florida,121908.15,.32833183,91775.375
+54,"Public Affairs, Policy, and Social Work",12,Florida,95606.789,.041747704,91775.375
+14,Architecture,12,Florida,103413.27,.12680842,91775.375
+15,"Area, Ethnic, and Civilization Studies",12,Florida,101511.97,.10609157,91775.375
+41,"Physical Fitness, Parks, Recreation, and Leisure",12,Florida,95873.266,.044651348,91775.375
+26,Linguistics and Foreign Languages,12,Florida,93295.453,.016563067,91775.375
+59,Transportation Sciences and Technologies,12,Florida,118190.96,.28782868,91775.375
+35,Library Science,12,Florida,93999.945,.024239322,91775.375
+51,"Nuclear, Industrial Radiology, and Biological Technologies",12,Florida,97713.523,.064703085,91775.375
+23,Education Administration and Teaching,12,Florida,89950.188,-.019887585,91775.375
+21,Computer and Information Sciences,12,Florida,113565.68,.23743089,91775.375
+33,"English Language, Literature, and Composition",12,Florida,95138.734,.036647774,91775.375
+49,Theology and Religious Vocations,12,Florida,67910.336,-.26003754,91775.375
+48,Philosophy and Religious Studies,12,Florida,91497.156,-.0030315062,91775.375
+25,Engineering Technologies,12,Florida,104722.31,.14107205,91775.375
+55,Social Sciences,12,Florida,106841.89,.16416733,91775.375
+53,Criminal Justice and Fire Protection,12,Florida,96660.477,.053228926,91775.375
+60,Fine Arts,12,Florida,81247.664,-.11471175,91775.375
+32,Law,12,Florida,101855.48,.10983454,91775.375
+36,Biology and Life Sciences,12,Florida,128701.8,.40235659,91775.375
+50,Physical Sciences,12,Florida,119899.64,.30644673,91775.375
+40,Interdisciplinary and Multi-Disciplinary Studies (General),13,Georgia,117843.16,.2218141,96449.344
+48,Philosophy and Religious Studies,13,Georgia,105414.42,.092951186,96449.344
+55,Social Sciences,13,Georgia,117747.37,.2208208,96449.344
+53,Criminal Justice and Fire Protection,13,Georgia,101678.41,.054215714,96449.344
+22,Cosmetology Services and Culinary Arts,13,Georgia,92966.484,-.036110777,96449.344
+60,Fine Arts,13,Georgia,90469.336,-.062001549,96449.344
+13,Environment and Natural Resources,13,Georgia,113663.37,.17847735,96449.344
+59,Transportation Sciences and Technologies,13,Georgia,141187.09,.46384707,96449.344
+29,Family and Consumer Sciences,13,Georgia,102579.29,.063556075,96449.344
+50,Physical Sciences,13,Georgia,132765.03,.37652597,96449.344
+26,Linguistics and Foreign Languages,13,Georgia,108285.52,.12271915,96449.344
+52,Psychology,13,Georgia,109218.14,.13238867,96449.344
+20,Communication Technologies,13,Georgia,107296.41,.11246385,96449.344
+21,Computer and Information Sciences,13,Georgia,127549.13,.32244685,96449.344
+37,Mathematics and Statistics,13,Georgia,126548.47,.31207183,96449.344
+14,Architecture,13,Georgia,117448.78,.21772502,96449.344
+35,Library Science,13,Georgia,106836.96,.10770024,96449.344
+61,Medical and Health Sciences and Services,13,Georgia,129735.97,.34512025,96449.344
+24,Engineering,13,Georgia,144854.67,.50187302,96449.344
+36,Biology and Life Sciences,13,Georgia,133572.48,.38489783,96449.344
+15,"Area, Ethnic, and Civilization Studies",13,Georgia,115539.7,.19793142,96449.344
+23,Education Administration and Teaching,13,Georgia,99953.703,.03633365,96449.344
+11,Agriculture,13,Georgia,113701.19,.1788695,96449.344
+62,Business,13,Georgia,127816.93,.32522345,96449.344
+25,Engineering Technologies,13,Georgia,130636.91,.35446137,96449.344
+64,History,13,Georgia,114883.69,.19112983,96449.344
+49,Theology and Religious Vocations,13,Georgia,80798.328,-.1622719,96449.344
+19,Communications,13,Georgia,113649.75,.17833619,96449.344
+32,Law,13,Georgia,120062.54,.24482484,96449.344
+33,"English Language, Literature, and Composition",13,Georgia,107132.98,.11076944,96449.344
+56,Construction Services,13,Georgia,140904.09,.46091285,96449.344
+99,Economics,13,Georgia,145375.23,.5072704,96449.344
+51,"Nuclear, Industrial Radiology, and Biological Technologies",13,Georgia,120024.08,.2444261,96449.344
+54,"Public Affairs, Policy, and Social Work",13,Georgia,101284.56,.050132193,96449.344
+41,"Physical Fitness, Parks, Recreation, and Leisure",13,Georgia,102995.38,.067870148,96449.344
+99,Economics,15,Hawaii,100379.74,.17721614,85268.742
+49,Theology and Religious Vocations,15,Hawaii,87544.531,.026689623,85268.742
+62,Business,15,Hawaii,98269.336,.15246612,85268.742
+25,Engineering Technologies,15,Hawaii,95218.828,.11669093,85268.742
+56,Construction Services,15,Hawaii,100258.1,.17578964,85268.742
+29,Family and Consumer Sciences,15,Hawaii,91952.703,.078387007,85268.742
+50,Physical Sciences,15,Hawaii,103365.05,.21222681,85268.742
+36,Biology and Life Sciences,15,Hawaii,102277.05,.19946712,85268.742
+11,Agriculture,15,Hawaii,94513.844,.10842314,85268.742
+33,"English Language, Literature, and Composition",15,Hawaii,91836.797,.077027686,85268.742
+40,Interdisciplinary and Multi-Disciplinary Studies (General),15,Hawaii,93750.211,.099467523,85268.742
+22,Cosmetology Services and Culinary Arts,15,Hawaii,94830,.1121309,85268.742
+35,Library Science,15,Hawaii,95047.25,.11467868,85268.742
+23,Education Administration and Teaching,15,Hawaii,92726.367,.08746022,85268.742
+59,Transportation Sciences and Technologies,15,Hawaii,100268.3,.17590921,85268.742
+26,Linguistics and Foreign Languages,15,Hawaii,90401.43,.060194265,85268.742
+60,Fine Arts,15,Hawaii,75397.172,-.11577005,85268.742
+24,Engineering,15,Hawaii,105436.86,.23652415,85268.742
+53,Criminal Justice and Fire Protection,15,Hawaii,94288.297,.10577798,85268.742
+41,"Physical Fitness, Parks, Recreation, and Leisure",15,Hawaii,92131.828,.080487713,85268.742
+54,"Public Affairs, Policy, and Social Work",15,Hawaii,90174.688,.057535127,85268.742
+15,"Area, Ethnic, and Civilization Studies",15,Hawaii,94466.141,.10786369,85268.742
+13,Environment and Natural Resources,15,Hawaii,94869.219,.11259083,85268.742
+48,Philosophy and Religious Studies,15,Hawaii,92340.516,.082935147,85268.742
+61,Medical and Health Sciences and Services,15,Hawaii,109264.04,.28140786,85268.742
+14,Architecture,15,Hawaii,96299.398,.12936345,85268.742
+19,Communications,15,Hawaii,93731.445,.099247396,85268.742
+52,Psychology,15,Hawaii,91601.391,.074266918,85268.742
+21,Computer and Information Sciences,15,Hawaii,97939.656,.14859979,85268.742
+32,Law,15,Hawaii,94966.219,.1137284,85268.742
+55,Social Sciences,15,Hawaii,93632.859,.098091237,85268.742
+51,"Nuclear, Industrial Radiology, and Biological Technologies",15,Hawaii,97501.711,.14346369,85268.742
+64,History,15,Hawaii,97845.805,.14749905,85268.742
+20,Communication Technologies,15,Hawaii,96259.953,.12890083,85268.742
+37,Mathematics and Statistics,15,Hawaii,94712.813,.11075655,85268.742
+35,Library Science,16,Idaho,87901.891,.090486266,80607.977
+23,Education Administration and Teaching,16,Idaho,80958.352,.0043466883,80607.977
+24,Engineering,16,Idaho,119907.29,.48753631,80607.977
+25,Engineering Technologies,16,Idaho,100416.18,.24573505,80607.977
+13,Environment and Natural Resources,16,Idaho,87756.672,.08868476,80607.977
+15,"Area, Ethnic, and Civilization Studies",16,Idaho,87940.594,.090966418,80607.977
+21,Computer and Information Sciences,16,Idaho,99708.242,.23695259,80607.977
+64,History,16,Idaho,91163.977,.13095479,80607.977
+40,Interdisciplinary and Multi-Disciplinary Studies (General),16,Idaho,92864.664,.15205303,80607.977
+14,Architecture,16,Idaho,87791.867,.089121297,80607.977
+53,Criminal Justice and Fire Protection,16,Idaho,84279.914,.045553029,80607.977
+48,Philosophy and Religious Studies,16,Idaho,90056.578,.11721674,80607.977
+59,Transportation Sciences and Technologies,16,Idaho,90938.453,.12815699,80607.977
+26,Linguistics and Foreign Languages,16,Idaho,92491.914,.14742884,80607.977
+56,Construction Services,16,Idaho,105488.2,.30865717,80607.977
+20,Communication Technologies,16,Idaho,84215.227,.04475053,80607.977
+55,Social Sciences,16,Idaho,90208.297,.11909886,80607.977
+61,Medical and Health Sciences and Services,16,Idaho,109956.48,.36408937,80607.977
+29,Family and Consumer Sciences,16,Idaho,68690.063,-.14785035,80607.977
+54,"Public Affairs, Policy, and Social Work",16,Idaho,87182.188,.081557833,80607.977
+60,Fine Arts,16,Idaho,68466.68,-.15062149,80607.977
+19,Communications,16,Idaho,88490.133,.097783841,80607.977
+11,Agriculture,16,Idaho,87904.523,.090518884,80607.977
+32,Law,16,Idaho,74495.359,-.075831406,80607.977
+36,Biology and Life Sciences,16,Idaho,110076.77,.36558157,80607.977
+51,"Nuclear, Industrial Radiology, and Biological Technologies",16,Idaho,97706.992,.21212561,80607.977
+49,Theology and Religious Vocations,16,Idaho,66264.914,-.177936,80607.977
+33,"English Language, Literature, and Composition",16,Idaho,83900.719,.040848851,80607.977
+99,Economics,16,Idaho,104963.45,.30214715,80607.977
+50,Physical Sciences,16,Idaho,103958.4,.28967878,80607.977
+22,Cosmetology Services and Culinary Arts,16,Idaho,74499.539,-.075779594,80607.977
+41,"Physical Fitness, Parks, Recreation, and Leisure",16,Idaho,90177.969,.11872267,80607.977
+52,Psychology,16,Idaho,84956.961,.053952251,80607.977
+62,Business,16,Idaho,102082.84,.2664111,80607.977
+37,Mathematics and Statistics,16,Idaho,104369.19,.29477498,80607.977
+35,Library Science,17,Illinois,106637.55,.06038855,100564.59
+26,Linguistics and Foreign Languages,17,Illinois,109854.19,.09237437,100564.59
+41,"Physical Fitness, Parks, Recreation, and Leisure",17,Illinois,105392.12,.048004169,100564.59
+29,Family and Consumer Sciences,17,Illinois,100316.67,-.0024652712,100564.59
+64,History,17,Illinois,116868.29,.16212159,100564.59
+14,Architecture,17,Illinois,117953.34,.17291117,100564.59
+15,"Area, Ethnic, and Civilization Studies",17,Illinois,115084.16,.14438055,100564.59
+36,Biology and Life Sciences,17,Illinois,136660.55,.35893306,100564.59
+32,Law,17,Illinois,116985.35,.16328564,100564.59
+61,Medical and Health Sciences and Services,17,Illinois,129990.33,.29260528,100564.59
+37,Mathematics and Statistics,17,Illinois,137371.27,.36600024,100564.59
+55,Social Sciences,17,Illinois,123022.4,.22331722,100564.59
+19,Communications,17,Illinois,115516.09,.14867561,100564.59
+11,Agriculture,17,Illinois,114726,.14081901,100564.59
+51,"Nuclear, Industrial Radiology, and Biological Technologies",17,Illinois,115407.04,.14759117,100564.59
+33,"English Language, Literature, and Composition",17,Illinois,109713.13,.090971678,100564.59
+54,"Public Affairs, Policy, and Social Work",17,Illinois,101633.14,.01062549,100564.59
+50,Physical Sciences,17,Illinois,130568.55,.29835501,100564.59
+20,Communication Technologies,17,Illinois,102730.87,.02154115,100564.59
+22,Cosmetology Services and Culinary Arts,17,Illinois,104954.18,.04364939,100564.59
+99,Economics,17,Illinois,150552.91,.49707666,100564.59
+40,Interdisciplinary and Multi-Disciplinary Studies (General),17,Illinois,113437.69,.1280082,100564.59
+25,Engineering Technologies,17,Illinois,121751.48,.21067935,100564.59
+49,Theology and Religious Vocations,17,Illinois,60841.602,-.39499977,100564.59
+62,Business,17,Illinois,134010.86,.33258498,100564.59
+48,Philosophy and Religious Studies,17,Illinois,99677.289,-.0088232448,100564.59
+59,Transportation Sciences and Technologies,17,Illinois,128436.32,.27715245,100564.59
+21,Computer and Information Sciences,17,Illinois,133520.64,.32771018,100564.59
+13,Environment and Natural Resources,17,Illinois,114720.54,.14076474,100564.59
+56,Construction Services,17,Illinois,135501.69,.34740952,100564.59
+23,Education Administration and Teaching,17,Illinois,99154.766,-.014019116,100564.59
+53,Criminal Justice and Fire Protection,17,Illinois,106705.73,.061066635,100564.59
+52,Psychology,17,Illinois,113098.53,.12463567,100564.59
+60,Fine Arts,17,Illinois,89546.703,-.10956036,100564.59
+24,Engineering,17,Illinois,145044,.44229695,100564.59
+22,Cosmetology Services and Culinary Arts,18,Indiana,83897.867,.029821025,81468.398
+59,Transportation Sciences and Technologies,18,Indiana,111796.75,.37227136,81468.398
+52,Psychology,18,Indiana,92356.383,.13364668,81468.398
+11,Agriculture,18,Indiana,96594.789,.18567193,81468.398
+53,Criminal Justice and Fire Protection,18,Indiana,91325.609,.12099431,81468.398
+19,Communications,18,Indiana,95975.531,.17807066,81468.398
+23,Education Administration and Teaching,18,Indiana,85830.977,.05354929,81468.398
+56,Construction Services,18,Indiana,116821.77,.433952,81468.398
+33,"English Language, Literature, and Composition",18,Indiana,86521.695,.0620277,81468.398
+15,"Area, Ethnic, and Civilization Studies",18,Indiana,96094.406,.17952986,81468.398
+54,"Public Affairs, Policy, and Social Work",18,Indiana,89297.945,.096105315,81468.398
+60,Fine Arts,18,Indiana,72126.672,-.11466691,81468.398
+37,Mathematics and Statistics,18,Indiana,102121.56,.2535114,81468.398
+48,Philosophy and Religious Studies,18,Indiana,89698.695,.10102437,81468.398
+61,Medical and Health Sciences and Services,18,Indiana,117144.14,.43790898,81468.398
+36,Biology and Life Sciences,18,Indiana,125281.4,.53779131,81468.398
+41,"Physical Fitness, Parks, Recreation, and Leisure",18,Indiana,91982.867,.12906191,81468.398
+25,Engineering Technologies,18,Indiana,109976.9,.34993327,81468.398
+29,Family and Consumer Sciences,18,Indiana,82990.781,.01868676,81468.398
+35,Library Science,18,Indiana,96497.688,.18448001,81468.398
+51,"Nuclear, Industrial Radiology, and Biological Technologies",18,Indiana,96037.648,.17883317,81468.398
+49,Theology and Religious Vocations,18,Indiana,65994.359,-.18993911,81468.398
+14,Architecture,18,Indiana,96305.953,.18212649,81468.398
+40,Interdisciplinary and Multi-Disciplinary Studies (General),18,Indiana,90520.594,.11111297,81468.398
+32,Law,18,Indiana,97835.203,.20089762,81468.398
+24,Engineering,18,Indiana,122911.87,.50870603,81468.398
+20,Communication Technologies,18,Indiana,95534.805,.17266089,81468.398
+55,Social Sciences,18,Indiana,93845.023,.15191935,81468.398
+50,Physical Sciences,18,Indiana,113990.03,.39919323,81468.398
+21,Computer and Information Sciences,18,Indiana,101160.71,.24171719,81468.398
+13,Environment and Natural Resources,18,Indiana,94025.391,.1541333,81468.398
+26,Linguistics and Foreign Languages,18,Indiana,81503.594,.00043201167,81468.398
+64,History,18,Indiana,91321.156,.12093964,81468.398
+62,Business,18,Indiana,107362.3,.31783983,81468.398
+99,Economics,18,Indiana,121718.12,.49405313,81468.398
+35,Library Science,19,Iowa,89514.875,.14824566,77957.945
+53,Criminal Justice and Fire Protection,19,Iowa,78630.695,.0086296378,77957.945
+37,Mathematics and Statistics,19,Iowa,93249.5,.19615129,77957.945
+48,Philosophy and Religious Studies,19,Iowa,77276.148,-.0087457318,77957.945
+15,"Area, Ethnic, and Civilization Studies",19,Iowa,83404.695,.069867805,77957.945
+40,Interdisciplinary and Multi-Disciplinary Studies (General),19,Iowa,78382.883,.0054508224,77957.945
+19,Communications,19,Iowa,83279.289,.068259194,77957.945
+62,Business,19,Iowa,94846.273,.21663387,77957.945
+25,Engineering Technologies,19,Iowa,90512.977,.16104877,77957.945
+26,Linguistics and Foreign Languages,19,Iowa,83053.219,.065359227,77957.945
+33,"English Language, Literature, and Composition",19,Iowa,75327.805,-.033737984,77957.945
+29,Family and Consumer Sciences,19,Iowa,76947.859,-.012956787,77957.945
+13,Environment and Natural Resources,19,Iowa,81529.734,.045816854,77957.945
+50,Physical Sciences,19,Iowa,100363.91,.287411,77957.945
+59,Transportation Sciences and Technologies,19,Iowa,80318.883,.030284725,77957.945
+54,"Public Affairs, Policy, and Social Work",19,Iowa,71666.781,-.080699489,77957.945
+64,History,19,Iowa,78867.641,.011669049,77957.945
+20,Communication Technologies,19,Iowa,83943.328,.076777056,77957.945
+24,Engineering,19,Iowa,107637.28,.38070956,77957.945
+14,Architecture,19,Iowa,85510.273,.096876949,77957.945
+22,Cosmetology Services and Culinary Arts,19,Iowa,80744.453,.035743698,77957.945
+61,Medical and Health Sciences and Services,19,Iowa,97809.695,.25464693,77957.945
+60,Fine Arts,19,Iowa,60771.359,-.22045973,77957.945
+36,Biology and Life Sciences,19,Iowa,98085.383,.2581833,77957.945
+99,Economics,19,Iowa,98652.82,.26546207,77957.945
+55,Social Sciences,19,Iowa,85431.805,.095870398,77957.945
+32,Law,19,Iowa,84914.211,.089231022,77957.945
+56,Construction Services,19,Iowa,101860.63,.30660999,77957.945
+11,Agriculture,19,Iowa,84782.508,.087541595,77957.945
+51,"Nuclear, Industrial Radiology, and Biological Technologies",19,Iowa,87225.039,.11887296,77957.945
+23,Education Administration and Teaching,19,Iowa,77841.594,-.0014924762,77957.945
+41,"Physical Fitness, Parks, Recreation, and Leisure",19,Iowa,77894.313,-.0008162809,77957.945
+49,Theology and Religious Vocations,19,Iowa,61600.191,-.20982793,77957.945
+21,Computer and Information Sciences,19,Iowa,86908.703,.11481521,77957.945
+52,Psychology,19,Iowa,79012.961,.013533163,77957.945
+99,Economics,20,Kansas,107804.46,.30885199,82365.664
+26,Linguistics and Foreign Languages,20,Kansas,90724.328,.10148243,82365.664
+29,Family and Consumer Sciences,20,Kansas,84373.172,.024373073,82365.664
+15,"Area, Ethnic, and Civilization Studies",20,Kansas,91666.406,.11292013,82365.664
+62,Business,20,Kansas,107770.05,.30843422,82365.664
+13,Environment and Natural Resources,20,Kansas,95268.805,.15665676,82365.664
+23,Education Administration and Teaching,20,Kansas,84810.953,.029688178,82365.664
+55,Social Sciences,20,Kansas,97382.25,.18231608,82365.664
+33,"English Language, Literature, and Composition",20,Kansas,86713.25,.052783925,82365.664
+61,Medical and Health Sciences and Services,20,Kansas,111591.28,.3548277,82365.664
+56,Construction Services,20,Kansas,106632.82,.2946271,82365.664
+19,Communications,20,Kansas,95383.531,.15804972,82365.664
+36,Biology and Life Sciences,20,Kansas,116516.29,.41462213,82365.664
+11,Agriculture,20,Kansas,95211.922,.15596613,82365.664
+40,Interdisciplinary and Multi-Disciplinary Studies (General),20,Kansas,93142.961,.13084692,82365.664
+21,Computer and Information Sciences,20,Kansas,104939.07,.27406329,82365.664
+14,Architecture,20,Kansas,100906.54,.22510441,82365.664
+50,Physical Sciences,20,Kansas,109073.86,.32426366,82365.664
+41,"Physical Fitness, Parks, Recreation, and Leisure",20,Kansas,88372.242,.072925784,82365.664
+37,Mathematics and Statistics,20,Kansas,98964.125,.20152158,82365.664
+25,Engineering Technologies,20,Kansas,100871.55,.22467965,82365.664
+59,Transportation Sciences and Technologies,20,Kansas,100841.65,.22431657,82365.664
+20,Communication Technologies,20,Kansas,94770.547,.15060744,82365.664
+49,Theology and Religious Vocations,20,Kansas,67860.422,-.17610791,82365.664
+48,Philosophy and Religious Studies,20,Kansas,81889.164,-.0057851351,82365.664
+60,Fine Arts,20,Kansas,80267.508,-.025473723,82365.664
+52,Psychology,20,Kansas,90716.594,.10138846,82365.664
+24,Engineering,20,Kansas,119929.93,.45606709,82365.664
+53,Criminal Justice and Fire Protection,20,Kansas,88521.227,.074734583,82365.664
+51,"Nuclear, Industrial Radiology, and Biological Technologies",20,Kansas,104440.85,.2680144,82365.664
+64,History,20,Kansas,92431.086,.12220412,82365.664
+54,"Public Affairs, Policy, and Social Work",20,Kansas,88792.039,.078022458,82365.664
+32,Law,20,Kansas,93128.063,.13066605,82365.664
+35,Library Science,20,Kansas,96961.063,.17720249,82365.664
+22,Cosmetology Services and Culinary Arts,20,Kansas,90514.5,.098934837,82365.664
+23,Education Administration and Teaching,21,Kentucky,84617.063,.0084946044,83904.328
+40,Interdisciplinary and Multi-Disciplinary Studies (General),21,Kentucky,84484.688,.0069169253,83904.328
+22,Cosmetology Services and Culinary Arts,21,Kentucky,87576.914,.043771144,83904.328
+51,"Nuclear, Industrial Radiology, and Biological Technologies",21,Kentucky,101904.09,.21452715,83904.328
+36,Biology and Life Sciences,21,Kentucky,118942.38,.41759521,83904.328
+35,Library Science,21,Kentucky,81182.453,-.032440186,83904.328
+50,Physical Sciences,21,Kentucky,111658.8,.33078718,83904.328
+53,Criminal Justice and Fire Protection,21,Kentucky,85129.773,.014605267,83904.328
+52,Psychology,21,Kentucky,87594.547,.043981258,83904.328
+48,Philosophy and Religious Studies,21,Kentucky,79547.82,-.051922329,83904.328
+13,Environment and Natural Resources,21,Kentucky,88049.57,.049404383,83904.328
+24,Engineering,21,Kentucky,120052.92,.43083113,83904.328
+19,Communications,21,Kentucky,92384.672,.10107163,83904.328
+29,Family and Consumer Sciences,21,Kentucky,82006.336,-.022620903,83904.328
+37,Mathematics and Statistics,21,Kentucky,106898.09,.2740474,83904.328
+26,Linguistics and Foreign Languages,21,Kentucky,90117.859,.074054949,83904.328
+59,Transportation Sciences and Technologies,21,Kentucky,112883.16,.3453795,83904.328
+55,Social Sciences,21,Kentucky,93719.648,.11698229,83904.328
+49,Theology and Religious Vocations,21,Kentucky,60255.078,-.2818597,83904.328
+33,"English Language, Literature, and Composition",21,Kentucky,83399.445,-.0060173357,83904.328
+20,Communication Technologies,21,Kentucky,86353.781,.029193392,83904.328
+25,Engineering Technologies,21,Kentucky,105580.01,.25833806,83904.328
+62,Business,21,Kentucky,104693.39,.24777105,83904.328
+60,Fine Arts,21,Kentucky,68332.438,-.18559104,83904.328
+21,Computer and Information Sciences,21,Kentucky,105724.96,.26006562,83904.328
+32,Law,21,Kentucky,91230.531,.087316155,83904.328
+54,"Public Affairs, Policy, and Social Work",21,Kentucky,76963.125,-.082727619,83904.328
+15,"Area, Ethnic, and Civilization Studies",21,Kentucky,91582.117,.091506444,83904.328
+99,Economics,21,Kentucky,121968.69,.45366383,83904.328
+61,Medical and Health Sciences and Services,21,Kentucky,113874.38,.3571932,83904.328
+56,Construction Services,21,Kentucky,109373.18,.30354634,83904.328
+14,Architecture,21,Kentucky,93049.195,.1089916,83904.328
+64,History,21,Kentucky,86767.492,.034124169,83904.328
+11,Agriculture,21,Kentucky,92322.602,.10033177,83904.328
+41,"Physical Fitness, Parks, Recreation, and Leisure",21,Kentucky,82802.414,-.013133022,83904.328
+23,Education Administration and Teaching,22,Louisiana,89448.867,.072383098,83411.297
+51,"Nuclear, Industrial Radiology, and Biological Technologies",22,Louisiana,110002.11,.31879154,83411.297
+62,Business,22,Louisiana,104023.38,.24711382,83411.297
+21,Computer and Information Sciences,22,Louisiana,100314.29,.20264629,83411.297
+24,Engineering,22,Louisiana,127584.85,.52958721,83411.297
+25,Engineering Technologies,22,Louisiana,103873.98,.24532267,83411.297
+13,Environment and Natural Resources,22,Louisiana,98921.703,.18595093,83411.297
+11,Agriculture,22,Louisiana,97935.734,.17413038,83411.297
+55,Social Sciences,22,Louisiana,97506.758,.16898745,83411.297
+52,Psychology,22,Louisiana,90303.172,.08262521,83411.297
+54,"Public Affairs, Policy, and Social Work",22,Louisiana,86291.508,.034530241,83411.297
+61,Medical and Health Sciences and Services,22,Louisiana,112226.14,.3454549,83411.297
+40,Interdisciplinary and Multi-Disciplinary Studies (General),22,Louisiana,90747.57,.087952964,83411.297
+14,Architecture,22,Louisiana,97447.516,.16827717,83411.297
+26,Linguistics and Foreign Languages,22,Louisiana,94515.594,.13312703,83411.297
+35,Library Science,22,Louisiana,104110.09,.24815336,83411.297
+22,Cosmetology Services and Culinary Arts,22,Louisiana,97494.734,.16884328,83411.297
+32,Law,22,Louisiana,90385.938,.083617501,83411.297
+49,Theology and Religious Vocations,22,Louisiana,65665.859,-.21274623,83411.297
+50,Physical Sciences,22,Louisiana,113382.55,.35931894,83411.297
+33,"English Language, Literature, and Composition",22,Louisiana,91028.266,.091318145,83411.297
+48,Philosophy and Religious Studies,22,Louisiana,87760.703,.052144114,83411.297
+99,Economics,22,Louisiana,113586.81,.36176777,83411.297
+56,Construction Services,22,Louisiana,119328.99,.43060949,83411.297
+41,"Physical Fitness, Parks, Recreation, and Leisure",22,Louisiana,97177.258,.16503716,83411.297
+37,Mathematics and Statistics,22,Louisiana,101153.85,.21271169,83411.297
+64,History,22,Louisiana,90186.758,.081229568,83411.297
+15,"Area, Ethnic, and Civilization Studies",22,Louisiana,97696.359,.17126057,83411.297
+36,Biology and Life Sciences,22,Louisiana,120481.13,.44442225,83411.297
+59,Transportation Sciences and Technologies,22,Louisiana,110473.68,.32444504,83411.297
+19,Communications,22,Louisiana,96782.609,.16030575,83411.297
+60,Fine Arts,22,Louisiana,71274.305,-.14550778,83411.297
+29,Family and Consumer Sciences,22,Louisiana,84452.758,.012485812,83411.297
+20,Communication Technologies,22,Louisiana,97663.758,.17086968,83411.297
+53,Criminal Justice and Fire Protection,22,Louisiana,87278.656,.046364967,83411.297
+25,Engineering Technologies,23,Maine,103021.84,.32140207,77964.031
+53,Criminal Justice and Fire Protection,23,Maine,91835.672,.17792355,77964.031
+20,Communication Technologies,23,Maine,89628.18,.14960931,77964.031
+35,Library Science,23,Maine,83951.086,.076792561,77964.031
+19,Communications,23,Maine,92449.641,.18579857,77964.031
+41,"Physical Fitness, Parks, Recreation, and Leisure",23,Maine,87616.68,.123809,77964.031
+11,Agriculture,23,Maine,92734.516,.18945251,77964.031
+33,"English Language, Literature, and Composition",23,Maine,87338.063,.12023538,77964.031
+60,Fine Arts,23,Maine,75953.195,-.025791891,77964.031
+15,"Area, Ethnic, and Civilization Studies",23,Maine,92576.805,.18742965,77964.031
+14,Architecture,23,Maine,93227.031,.19576973,77964.031
+55,Social Sciences,23,Maine,91933.383,.17917687,77964.031
+13,Environment and Natural Resources,23,Maine,92573.93,.18739277,77964.031
+21,Computer and Information Sciences,23,Maine,94168.75,.20784865,77964.031
+48,Philosophy and Religious Studies,23,Maine,98407.07,.26221111,77964.031
+22,Cosmetology Services and Culinary Arts,23,Maine,91103.633,.16853416,77964.031
+52,Psychology,23,Maine,93706.898,.20192477,77964.031
+50,Physical Sciences,23,Maine,102327.12,.31249136,77964.031
+61,Medical and Health Sciences and Services,23,Maine,108099.84,.38653475,77964.031
+36,Biology and Life Sciences,23,Maine,104008.87,.33406225,77964.031
+24,Engineering,23,Maine,104938.34,.34598401,77964.031
+51,"Nuclear, Industrial Radiology, and Biological Technologies",23,Maine,103626.38,.32915628,77964.031
+56,Construction Services,23,Maine,104590.11,.34151745,77964.031
+40,Interdisciplinary and Multi-Disciplinary Studies (General),23,Maine,84411.188,.082693934,77964.031
+32,Law,23,Maine,91327.516,.17140576,77964.031
+54,"Public Affairs, Policy, and Social Work",23,Maine,89144.992,.14341176,77964.031
+29,Family and Consumer Sciences,23,Maine,87214.297,.11864789,77964.031
+99,Economics,23,Maine,109021.2,.3983525,77964.031
+59,Transportation Sciences and Technologies,23,Maine,103098.34,.3223834,77964.031
+26,Linguistics and Foreign Languages,23,Maine,90846.742,.16523917,77964.031
+23,Education Administration and Teaching,23,Maine,90127.461,.15601331,77964.031
+62,Business,23,Maine,99400.781,.27495691,77964.031
+64,History,23,Maine,96441.5,.23699991,77964.031
+37,Mathematics and Statistics,23,Maine,93595.25,.20049265,77964.031
+49,Theology and Religious Vocations,23,Maine,73267.656,-.060237717,77964.031
+20,Communication Technologies,24,Maryland,128202.71,.16092141,110431.86
+25,Engineering Technologies,24,Maryland,138481.27,.25399742,110431.86
+21,Computer and Information Sciences,24,Maryland,144197.11,.30575648,110431.86
+59,Transportation Sciences and Technologies,24,Maryland,143710.44,.3013494,110431.86
+36,Biology and Life Sciences,24,Maryland,151101.95,.3682822,110431.86
+14,Architecture,24,Maryland,129672.51,.17423098,110431.86
+56,Construction Services,24,Maryland,147252.33,.33342257,110431.86
+62,Business,24,Maryland,138906.22,.25784558,110431.86
+61,Medical and Health Sciences and Services,24,Maryland,140446.8,.27179593,110431.86
+23,Education Administration and Teaching,24,Maryland,111930.04,.013566555,110431.86
+29,Family and Consumer Sciences,24,Maryland,117460.34,.06364546,110431.86
+35,Library Science,24,Maryland,118970.23,.077317968,110431.86
+15,"Area, Ethnic, and Civilization Studies",24,Maryland,129212.95,.17006953,110431.86
+24,Engineering,24,Maryland,159428.81,.443685,110431.86
+32,Law,24,Maryland,127252.47,.15231666,110431.86
+48,Philosophy and Religious Studies,24,Maryland,119312.73,.080419451,110431.86
+22,Cosmetology Services and Culinary Arts,24,Maryland,117364.22,.062775023,110431.86
+64,History,24,Maryland,131746.05,.19300765,110431.86
+26,Linguistics and Foreign Languages,24,Maryland,124362.22,.12614436,110431.86
+40,Interdisciplinary and Multi-Disciplinary Studies (General),24,Maryland,127290.68,.15266266,110431.86
+99,Economics,24,Maryland,156979.45,.42150515,110431.86
+54,"Public Affairs, Policy, and Social Work",24,Maryland,119621.07,.083211593,110431.86
+37,Mathematics and Statistics,24,Maryland,154017.75,.39468586,110431.86
+50,Physical Sciences,24,Maryland,153165.67,.38696992,110431.86
+53,Criminal Justice and Fire Protection,24,Maryland,128209.14,.16097966,110431.86
+60,Fine Arts,24,Maryland,98924.773,-.10420075,110431.86
+52,Psychology,24,Maryland,120975.37,.095475264,110431.86
+51,"Nuclear, Industrial Radiology, and Biological Technologies",24,Maryland,144395.42,.30755228,110431.86
+55,Social Sciences,24,Maryland,142186.41,.28754872,110431.86
+33,"English Language, Literature, and Composition",24,Maryland,119135.53,.078814834,110431.86
+19,Communications,24,Maryland,128385.09,.16257294,110431.86
+13,Environment and Natural Resources,24,Maryland,128155.79,.16049653,110431.86
+49,Theology and Religious Vocations,24,Maryland,81990.117,-.25755018,110431.86
+41,"Physical Fitness, Parks, Recreation, and Leisure",24,Maryland,116374.16,.053809609,110431.86
+11,Agriculture,24,Maryland,127716.38,.15651755,110431.86
+23,Education Administration and Teaching,25,Massachusetts,115544.42,.036607128,111464.05
+24,Engineering,25,Massachusetts,166851.94,.49691263,111464.05
+49,Theology and Religious Vocations,25,Massachusetts,80682.883,-.27615333,111464.05
+40,Interdisciplinary and Multi-Disciplinary Studies (General),25,Massachusetts,131620.17,.18083079,111464.05
+53,Criminal Justice and Fire Protection,25,Massachusetts,125305.23,.12417624,111464.05
+11,Agriculture,25,Massachusetts,130463.91,.1704573,111464.05
+50,Physical Sciences,25,Massachusetts,155755.08,.39735708,111464.05
+99,Economics,25,Massachusetts,168192.95,.5089435,111464.05
+54,"Public Affairs, Policy, and Social Work",25,Massachusetts,122594.55,.099857397,111464.05
+29,Family and Consumer Sciences,25,Massachusetts,121974.29,.09429267,111464.05
+26,Linguistics and Foreign Languages,25,Massachusetts,133773.97,.20015359,111464.05
+51,"Nuclear, Industrial Radiology, and Biological Technologies",25,Massachusetts,133590.59,.19850843,111464.05
+52,Psychology,25,Massachusetts,128178.94,.14995772,111464.05
+32,Law,25,Massachusetts,124589.52,.11775523,111464.05
+60,Fine Arts,25,Massachusetts,103594.53,-.070601411,111464.05
+36,Biology and Life Sciences,25,Massachusetts,158983.8,.42632362,111464.05
+13,Environment and Natural Resources,25,Massachusetts,126842.25,.13796556,111464.05
+61,Medical and Health Sciences and Services,25,Massachusetts,151308.23,.35746229,111464.05
+22,Cosmetology Services and Culinary Arts,25,Massachusetts,112727.64,.011336332,111464.05
+33,"English Language, Literature, and Composition",25,Massachusetts,123563.73,.10855236,111464.05
+21,Computer and Information Sciences,25,Massachusetts,157284.44,.41107777,111464.05
+55,Social Sciences,25,Massachusetts,138864.27,.24582116,111464.05
+62,Business,25,Massachusetts,147596.66,.32416385,111464.05
+19,Communications,25,Massachusetts,130494.2,.17072907,111464.05
+59,Transportation Sciences and Technologies,25,Massachusetts,139076.5,.24772525,111464.05
+14,Architecture,25,Massachusetts,136074.22,.22079018,111464.05
+35,Library Science,25,Massachusetts,130484.12,.17063861,111464.05
+56,Construction Services,25,Massachusetts,144115.55,.29293299,111464.05
+15,"Area, Ethnic, and Civilization Studies",25,Massachusetts,132402.25,.18784708,111464.05
+64,History,25,Massachusetts,134378.05,.20557299,111464.05
+25,Engineering Technologies,25,Massachusetts,135465.7,.21533093,111464.05
+48,Philosophy and Religious Studies,25,Massachusetts,114214.78,.024678208,111464.05
+37,Mathematics and Statistics,25,Massachusetts,158515.77,.42212468,111464.05
+20,Communication Technologies,25,Massachusetts,126385.35,.13386653,111464.05
+41,"Physical Fitness, Parks, Recreation, and Leisure",25,Massachusetts,116929.73,.049035367,111464.05
+53,Criminal Justice and Fire Protection,26,Michigan,97296.797,.090957209,89184.797
+24,Engineering,26,Michigan,135191.03,.51585293,89184.797
+25,Engineering Technologies,26,Michigan,122622.38,.37492466,89184.797
+59,Transportation Sciences and Technologies,26,Michigan,114244.66,.2809881,89184.797
+23,Education Administration and Teaching,26,Michigan,93495.281,.048332088,89184.797
+19,Communications,26,Michigan,102890.02,.1536721,89184.797
+36,Biology and Life Sciences,26,Michigan,126459.05,.41794401,89184.797
+14,Architecture,26,Michigan,104130.57,.16758206,89184.797
+35,Library Science,26,Michigan,98392.961,.10324814,89184.797
+54,"Public Affairs, Policy, and Social Work",26,Michigan,94790.836,.062858723,89184.797
+29,Family and Consumer Sciences,26,Michigan,92467.727,.036810398,89184.797
+40,Interdisciplinary and Multi-Disciplinary Studies (General),26,Michigan,105761.94,.18587406,89184.797
+13,Environment and Natural Resources,26,Michigan,101082.65,.13340674,89184.797
+99,Economics,26,Michigan,128610.95,.44207254,89184.797
+26,Linguistics and Foreign Languages,26,Michigan,96517.125,.082214959,89184.797
+60,Fine Arts,26,Michigan,80103.578,-.10182478,89184.797
+51,"Nuclear, Industrial Radiology, and Biological Technologies",26,Michigan,103650.48,.16219899,89184.797
+22,Cosmetology Services and Culinary Arts,26,Michigan,98115.266,.10013441,89184.797
+15,"Area, Ethnic, and Civilization Studies",26,Michigan,105979.63,.18831493,89184.797
+21,Computer and Information Sciences,26,Michigan,115810.55,.29854596,89184.797
+49,Theology and Religious Vocations,26,Michigan,64486.445,-.27693453,89184.797
+64,History,26,Michigan,97308.07,.091083601,89184.797
+37,Mathematics and Statistics,26,Michigan,117633.16,.31898224,89184.797
+11,Agriculture,26,Michigan,103288.59,.15814118,89184.797
+52,Psychology,26,Michigan,99409.117,.11464199,89184.797
+41,"Physical Fitness, Parks, Recreation, and Leisure",26,Michigan,93757.5,.051272232,89184.797
+32,Law,26,Michigan,103681.95,.16255185,89184.797
+50,Physical Sciences,26,Michigan,118009.38,.32320067,89184.797
+48,Philosophy and Religious Studies,26,Michigan,81847.477,-.082270958,89184.797
+20,Communication Technologies,26,Michigan,96394.867,.080844142,89184.797
+33,"English Language, Literature, and Composition",26,Michigan,93200.391,.045025535,89184.797
+62,Business,26,Michigan,115371.91,.2936275,89184.797
+61,Medical and Health Sciences and Services,26,Michigan,121416.93,.36140841,89184.797
+56,Construction Services,26,Michigan,112030.19,.25615793,89184.797
+55,Social Sciences,26,Michigan,104569.32,.17250164,89184.797
+50,Physical Sciences,27,Minnesota,118859.19,.29076904,92084.008
+26,Linguistics and Foreign Languages,27,Minnesota,95291.258,.034829576,92084.008
+48,Philosophy and Religious Studies,27,Minnesota,93107.422,.011113958,92084.008
+23,Education Administration and Teaching,27,Minnesota,91444.078,-.0069493856,92084.008
+59,Transportation Sciences and Technologies,27,Minnesota,114366.48,.24197975,92084.008
+22,Cosmetology Services and Culinary Arts,27,Minnesota,101785.48,.10535457,92084.008
+19,Communications,27,Minnesota,101165.37,.0986204,92084.008
+29,Family and Consumer Sciences,27,Minnesota,86875.266,-.056565151,92084.008
+53,Criminal Justice and Fire Protection,27,Minnesota,94364,.024759915,92084.008
+15,"Area, Ethnic, and Civilization Studies",27,Minnesota,100599.7,.092477366,92084.008
+11,Agriculture,27,Minnesota,101149.56,.098448761,92084.008
+13,Environment and Natural Resources,27,Minnesota,100667.13,.093209684,92084.008
+24,Engineering,27,Minnesota,123663.33,.3429403,92084.008
+37,Mathematics and Statistics,27,Minnesota,119688.7,.29977724,92084.008
+61,Medical and Health Sciences and Services,27,Minnesota,118409.3,.28588349,92084.008
+14,Architecture,27,Minnesota,101254.14,.09958443,92084.008
+35,Library Science,27,Minnesota,97687.188,.060848583,92084.008
+60,Fine Arts,27,Minnesota,80097.25,-.13017194,92084.008
+40,Interdisciplinary and Multi-Disciplinary Studies (General),27,Minnesota,98280.383,.067290425,92084.008
+25,Engineering Technologies,27,Minnesota,107932.68,.17211097,92084.008
+49,Theology and Religious Vocations,27,Minnesota,72384.18,-.21393321,92084.008
+64,History,27,Minnesota,91199.711,-.0096031129,92084.008
+56,Construction Services,27,Minnesota,114289.66,.24114552,92084.008
+52,Psychology,27,Minnesota,99234.117,.077647701,92084.008
+20,Communication Technologies,27,Minnesota,100969.33,.096491471,92084.008
+51,"Nuclear, Industrial Radiology, and Biological Technologies",27,Minnesota,102769.24,.11603793,92084.008
+54,"Public Affairs, Policy, and Social Work",27,Minnesota,91316.883,-.0083306711,92084.008
+41,"Physical Fitness, Parks, Recreation, and Leisure",27,Minnesota,93229.563,.012440298,92084.008
+55,Social Sciences,27,Minnesota,102138.89,.10919254,92084.008
+21,Computer and Information Sciences,27,Minnesota,109385.23,.18788524,92084.008
+36,Biology and Life Sciences,27,Minnesota,117861.41,.27993357,92084.008
+33,"English Language, Literature, and Composition",27,Minnesota,92008.828,-.00081646215,92084.008
+99,Economics,27,Minnesota,127390.48,.38341594,92084.008
+62,Business,27,Minnesota,115988.9,.2595987,92084.008
+32,Law,27,Minnesota,96982.547,.053196456,92084.008
+26,Linguistics and Foreign Languages,28,Mississippi,89581.797,.21394417,73794
+99,Economics,28,Mississippi,94297.273,.27784473,73794
+11,Agriculture,28,Mississippi,92545.461,.25410548,73794
+49,Theology and Religious Vocations,28,Mississippi,76678.695,.039091174,73794
+61,Medical and Health Sciences and Services,28,Mississippi,111750.26,.51435423,73794
+62,Business,28,Mississippi,98499.586,.33479121,73794
+29,Family and Consumer Sciences,28,Mississippi,84933.219,.15095016,73794
+22,Cosmetology Services and Culinary Arts,28,Mississippi,89833.141,.21735017,73794
+50,Physical Sciences,28,Mississippi,106773.37,.44691125,73794
+24,Engineering,28,Mississippi,107921.77,.46247354,73794
+13,Environment and Natural Resources,28,Mississippi,92610.969,.25499323,73794
+23,Education Administration and Teaching,28,Mississippi,88583.406,.20041478,73794
+64,History,28,Mississippi,87116.422,.18053535,73794
+37,Mathematics and Statistics,28,Mississippi,96353.344,.30570704,73794
+19,Communications,28,Mississippi,91389.68,.23844321,73794
+54,"Public Affairs, Policy, and Social Work",28,Mississippi,87769.023,.18937886,73794
+21,Computer and Information Sciences,28,Mississippi,94115.813,.27538574,73794
+15,"Area, Ethnic, and Civilization Studies",28,Mississippi,92273.813,.2504243,73794
+25,Engineering Technologies,28,Mississippi,98707.969,.3376151,73794
+48,Philosophy and Religious Studies,28,Mississippi,87550.609,.18641905,73794
+53,Criminal Justice and Fire Protection,28,Mississippi,85329.766,.15632389,73794
+56,Construction Services,28,Mississippi,102424.1,.38797325,73794
+55,Social Sciences,28,Mississippi,90803.93,.23050563,73794
+59,Transportation Sciences and Technologies,28,Mississippi,113148.86,.53330702,73794
+35,Library Science,28,Mississippi,89125.977,.20776723,73794
+32,Law,28,Mississippi,90009.625,.21974182,73794
+20,Communication Technologies,28,Mississippi,92152.352,.2487784,73794
+41,"Physical Fitness, Parks, Recreation, and Leisure",28,Mississippi,89451.242,.21217501,73794
+33,"English Language, Literature, and Composition",28,Mississippi,87864.891,.19067799,73794
+51,"Nuclear, Industrial Radiology, and Biological Technologies",28,Mississippi,98972.43,.34119883,73794
+14,Architecture,28,Mississippi,97680.203,.32368755,73794
+52,Psychology,28,Mississippi,88489.5,.19914219,73794
+40,Interdisciplinary and Multi-Disciplinary Studies (General),28,Mississippi,89841.688,.21746607,73794
+36,Biology and Life Sciences,28,Mississippi,107069.15,.45091948,73794
+60,Fine Arts,28,Mississippi,73754.094,-.00054082385,73794
+23,Education Administration and Teaching,29,Missouri,79824.047,-.050957751,84110.109
+49,Theology and Religious Vocations,29,Missouri,61491.328,-.26891872,84110.109
+35,Library Science,29,Missouri,98504.602,.17113863,84110.109
+14,Architecture,29,Missouri,95349.188,.13362338,84110.109
+22,Cosmetology Services and Culinary Arts,29,Missouri,87753.805,.043320522,84110.109
+50,Physical Sciences,29,Missouri,105719.26,.25691503,84110.109
+20,Communication Technologies,29,Missouri,90380.633,.074551374,84110.109
+32,Law,29,Missouri,96187.781,.14359362,84110.109
+21,Computer and Information Sciences,29,Missouri,102847.6,.2227734,84110.109
+54,"Public Affairs, Policy, and Social Work",29,Missouri,85267.664,.013762354,84110.109
+52,Psychology,29,Missouri,85887.211,.021128241,84110.109
+53,Criminal Justice and Fire Protection,29,Missouri,81586.273,-.030006355,84110.109
+59,Transportation Sciences and Technologies,29,Missouri,103581.89,.23150346,84110.109
+60,Fine Arts,29,Missouri,73171.383,-.13005248,84110.109
+15,"Area, Ethnic, and Civilization Studies",29,Missouri,93028.891,.10603693,84110.109
+41,"Physical Fitness, Parks, Recreation, and Leisure",29,Missouri,81690.469,-.028767506,84110.109
+64,History,29,Missouri,90420.531,.075025693,84110.109
+24,Engineering,29,Missouri,120343.29,.43078271,84110.109
+36,Biology and Life Sciences,29,Missouri,112149.27,.33336249,84110.109
+62,Business,29,Missouri,106636.88,.26782471,84110.109
+25,Engineering Technologies,29,Missouri,97002.68,.15328206,84110.109
+11,Agriculture,29,Missouri,92576.125,.10065392,84110.109
+13,Environment and Natural Resources,29,Missouri,91032.453,.082300998,84110.109
+55,Social Sciences,29,Missouri,90587.109,.077006198,84110.109
+99,Economics,29,Missouri,113074.15,.34435856,84110.109
+26,Linguistics and Foreign Languages,29,Missouri,79265.734,-.057595659,84110.109
+51,"Nuclear, Industrial Radiology, and Biological Technologies",29,Missouri,93777.43,.11493651,84110.109
+61,Medical and Health Sciences and Services,29,Missouri,112056.3,.33225718,84110.109
+48,Philosophy and Religious Studies,29,Missouri,79160.07,-.058851928,84110.109
+56,Construction Services,29,Missouri,103887.23,.23513377,84110.109
+33,"English Language, Literature, and Composition",29,Missouri,85398.742,.015320803,84110.109
+40,Interdisciplinary and Multi-Disciplinary Studies (General),29,Missouri,90322.32,.073858067,84110.109
+37,Mathematics and Statistics,29,Missouri,100780.2,.19819368,84110.109
+29,Family and Consumer Sciences,29,Missouri,81780.305,-.027699463,84110.109
+19,Communications,29,Missouri,93717.273,.11422132,84110.109
+36,Biology and Life Sciences,30,Montana,89459.617,.2430843,71965.852
+56,Construction Services,30,Montana,91464.914,.27094886,71965.852
+54,"Public Affairs, Policy, and Social Work",30,Montana,70994.664,-.013495089,71965.852
+53,Criminal Justice and Fire Protection,30,Montana,81485.742,.13228348,71965.852
+35,Library Science,30,Montana,85830.875,.19266115,71965.852
+23,Education Administration and Teaching,30,Montana,76995.266,.069886081,71965.852
+21,Computer and Information Sciences,30,Montana,87918.813,.22167408,71965.852
+13,Environment and Natural Resources,30,Montana,82973.43,.15295553,71965.852
+19,Communications,30,Montana,81501.234,.13249867,71965.852
+32,Law,30,Montana,83336.992,.1580074,71965.852
+15,"Area, Ethnic, and Civilization Studies",30,Montana,82896.914,.15189232,71965.852
+61,Medical and Health Sciences and Services,30,Montana,97294.875,.35195887,71965.852
+51,"Nuclear, Industrial Radiology, and Biological Technologies",30,Montana,108123.19,.50242352,71965.852
+11,Agriculture,30,Montana,82396.023,.14493226,71965.852
+40,Interdisciplinary and Multi-Disciplinary Studies (General),30,Montana,86196.086,.19773592,71965.852
+25,Engineering Technologies,30,Montana,84958.914,.18054482,71965.852
+48,Philosophy and Religious Studies,30,Montana,74086.828,.029472012,71965.852
+20,Communication Technologies,30,Montana,83503.711,.1603241,71965.852
+49,Theology and Religious Vocations,30,Montana,75026.797,.042533349,71965.852
+41,"Physical Fitness, Parks, Recreation, and Leisure",30,Montana,83840.328,.16500156,71965.852
+55,Social Sciences,30,Montana,79380.938,.10303614,71965.852
+26,Linguistics and Foreign Languages,30,Montana,78510.828,.090945549,71965.852
+37,Mathematics and Statistics,30,Montana,83104.594,.15477811,71965.852
+52,Psychology,30,Montana,83040.523,.15388793,71965.852
+60,Fine Arts,30,Montana,63829.199,-.11306269,71965.852
+33,"English Language, Literature, and Composition",30,Montana,79243.883,.10113173,71965.852
+29,Family and Consumer Sciences,30,Montana,78729.867,.093989231,71965.852
+24,Engineering,30,Montana,93135.914,.29416814,71965.852
+22,Cosmetology Services and Culinary Arts,30,Montana,80719.375,.12163439,71965.852
+99,Economics,30,Montana,97031.945,.34830534,71965.852
+64,History,30,Montana,75777.484,.052964486,71965.852
+14,Architecture,30,Montana,83461.617,.15973914,71965.852
+50,Physical Sciences,30,Montana,88939.508,.23585704,71965.852
+59,Transportation Sciences and Technologies,30,Montana,101157.43,.40563101,71965.852
+62,Business,30,Montana,91882.359,.2767494,71965.852
+40,Interdisciplinary and Multi-Disciplinary Studies (General),31,Nebraska,83725.977,.060210183,78971.109
+33,"English Language, Literature, and Composition",31,Nebraska,84664.977,.072100647,78971.109
+37,Mathematics and Statistics,31,Nebraska,98260.547,.24425946,78971.109
+61,Medical and Health Sciences and Services,31,Nebraska,99446.563,.25927776,78971.109
+60,Fine Arts,31,Nebraska,68408.508,-.1337527,78971.109
+21,Computer and Information Sciences,31,Nebraska,91678.742,.160915,78971.109
+25,Engineering Technologies,31,Nebraska,89371.656,.13170065,78971.109
+24,Engineering,31,Nebraska,95506.836,.2093896,78971.109
+53,Criminal Justice and Fire Protection,31,Nebraska,81177.766,.027942603,78971.109
+15,"Area, Ethnic, and Civilization Studies",31,Nebraska,85847.391,.087073341,78971.109
+19,Communications,31,Nebraska,86378.195,.093794852,78971.109
+29,Family and Consumer Sciences,31,Nebraska,79280.32,.0039155139,78971.109
+13,Environment and Natural Resources,31,Nebraska,85680.844,.084964387,78971.109
+11,Agriculture,31,Nebraska,85715.656,.085405283,78971.109
+36,Biology and Life Sciences,31,Nebraska,104251.63,.32012358,78971.109
+59,Transportation Sciences and Technologies,31,Nebraska,97390.445,.23324148,78971.109
+99,Economics,31,Nebraska,97865.055,.23925136,78971.109
+55,Social Sciences,31,Nebraska,88140.273,.11610784,78971.109
+22,Cosmetology Services and Culinary Arts,31,Nebraska,85858.047,.087208353,78971.109
+41,"Physical Fitness, Parks, Recreation, and Leisure",31,Nebraska,82701.984,.04724358,78971.109
+52,Psychology,31,Nebraska,85472.117,.082321353,78971.109
+51,"Nuclear, Industrial Radiology, and Biological Technologies",31,Nebraska,91571.43,.15955606,78971.109
+35,Library Science,31,Nebraska,80680.93,.021651186,78971.109
+64,History,31,Nebraska,87848.555,.11241385,78971.109
+50,Physical Sciences,31,Nebraska,95133.906,.20466724,78971.109
+20,Communication Technologies,31,Nebraska,84334.133,.06791117,78971.109
+32,Law,31,Nebraska,78462.273,-.0064433003,78971.109
+23,Education Administration and Teaching,31,Nebraska,84205.469,.066281982,78971.109
+56,Construction Services,31,Nebraska,96852.414,.22642848,78971.109
+48,Philosophy and Religious Studies,31,Nebraska,77127.703,-.02334277,78971.109
+54,"Public Affairs, Policy, and Social Work",31,Nebraska,79345.531,.0047412138,78971.109
+49,Theology and Religious Vocations,31,Nebraska,70615.805,-.10580207,78971.109
+62,Business,31,Nebraska,95110.602,.20437211,78971.109
+14,Architecture,31,Nebraska,85776.414,.08617457,78971.109
+26,Linguistics and Foreign Languages,31,Nebraska,75787.703,-.04031105,78971.109
+19,Communications,32,Nevada,100529.05,.13084258,88897.477
+23,Education Administration and Teaching,32,Nevada,93394.727,.050589211,88897.477
+24,Engineering,32,Nevada,116063.5,.30558825,88897.477
+21,Computer and Information Sciences,32,Nevada,108164.41,.21673204,88897.477
+61,Medical and Health Sciences and Services,32,Nevada,118884.34,.33731961,88897.477
+32,Law,32,Nevada,101082.34,.13706648,88897.477
+25,Engineering Technologies,32,Nevada,99126.984,.11507085,88897.477
+60,Fine Arts,32,Nevada,85208.906,-.041492414,88897.477
+53,Criminal Justice and Fire Protection,32,Nevada,95997.164,.079863742,88897.477
+15,"Area, Ethnic, and Civilization Studies",32,Nevada,100665.66,.13237923,88897.477
+29,Family and Consumer Sciences,32,Nevada,94655.938,.064776428,88897.477
+22,Cosmetology Services and Culinary Arts,32,Nevada,99985.789,.12473147,88897.477
+56,Construction Services,32,Nevada,123205.09,.38592336,88897.477
+48,Philosophy and Religious Studies,32,Nevada,98583.68,.10895928,88897.477
+99,Economics,32,Nevada,116776.59,.31360978,88897.477
+20,Communication Technologies,32,Nevada,97126.547,.092568122,88897.477
+37,Mathematics and Statistics,32,Nevada,106039.55,.19282971,88897.477
+33,"English Language, Literature, and Composition",32,Nevada,95193.617,.070824713,88897.477
+40,Interdisciplinary and Multi-Disciplinary Studies (General),32,Nevada,100305.16,.12832406,88897.477
+49,Theology and Religious Vocations,32,Nevada,93823.945,.055417459,88897.477
+62,Business,32,Nevada,105042.35,.18161231,88897.477
+64,History,32,Nevada,94672.875,.064966917,88897.477
+54,"Public Affairs, Policy, and Social Work",32,Nevada,95342.109,.072495155,88897.477
+36,Biology and Life Sciences,32,Nevada,115358.23,.29765469,88897.477
+52,Psychology,32,Nevada,97363.172,.095229864,88897.477
+35,Library Science,32,Nevada,99652.406,.12098126,88897.477
+41,"Physical Fitness, Parks, Recreation, and Leisure",32,Nevada,96648.5,.087190621,88897.477
+51,"Nuclear, Industrial Radiology, and Biological Technologies",32,Nevada,99091.82,.11467528,88897.477
+26,Linguistics and Foreign Languages,32,Nevada,98229.891,.10497951,88897.477
+14,Architecture,32,Nevada,100452.99,.12998697,88897.477
+13,Environment and Natural Resources,32,Nevada,100264.41,.12786569,88897.477
+59,Transportation Sciences and Technologies,32,Nevada,115444.8,.29862857,88897.477
+50,Physical Sciences,32,Nevada,114513.2,.28814897,88897.477
+11,Agriculture,32,Nevada,100479.32,.13028319,88897.477
+55,Social Sciences,32,Nevada,100958.53,.13567375,88897.477
+56,Construction Services,33,New Hampshire,119708.38,.24604782,96070.453
+20,Communication Technologies,33,New Hampshire,102048.3,.062223636,96070.453
+41,"Physical Fitness, Parks, Recreation, and Leisure",33,New Hampshire,89640.156,-.066933118,96070.453
+23,Education Administration and Teaching,33,New Hampshire,93564.039,-.026089311,96070.453
+11,Agriculture,33,New Hampshire,102320.02,.065051898,96070.453
+36,Biology and Life Sciences,33,New Hampshire,118540.77,.23389415,96070.453
+22,Cosmetology Services and Culinary Arts,33,New Hampshire,97132.805,.01105803,96070.453
+35,Library Science,33,New Hampshire,93394.594,-.027853133,96070.453
+53,Criminal Justice and Fire Protection,33,New Hampshire,97193.141,.011686052,96070.453
+13,Environment and Natural Resources,33,New Hampshire,101467.89,.056182072,96070.453
+32,Law,33,New Hampshire,93745.836,-.024196982,96070.453
+37,Mathematics and Statistics,33,New Hampshire,116140.45,.2089092,96070.453
+62,Business,33,New Hampshire,112169.63,.16757672,96070.453
+19,Communications,33,New Hampshire,100333.3,.044372164,96070.453
+51,"Nuclear, Industrial Radiology, and Biological Technologies",33,New Hampshire,136631.84,.42220458,96070.453
+54,"Public Affairs, Policy, and Social Work",33,New Hampshire,91236.07,-.050321244,96070.453
+29,Family and Consumer Sciences,33,New Hampshire,92587.734,-.036251735,96070.453
+26,Linguistics and Foreign Languages,33,New Hampshire,99717.727,.037964553,96070.453
+33,"English Language, Literature, and Composition",33,New Hampshire,95846.469,-.0023314669,96070.453
+15,"Area, Ethnic, and Civilization Studies",33,New Hampshire,106604.98,.10965417,96070.453
+61,Medical and Health Sciences and Services,33,New Hampshire,121540.08,.26511407,96070.453
+48,Philosophy and Religious Studies,33,New Hampshire,84688.484,-.11847524,96070.453
+24,Engineering,33,New Hampshire,125006,.30119091,96070.453
+25,Engineering Technologies,33,New Hampshire,113703.45,.18354236,96070.453
+50,Physical Sciences,33,New Hampshire,117066.69,.21855037,96070.453
+14,Architecture,33,New Hampshire,102276.99,.064604044,96070.453
+40,Interdisciplinary and Multi-Disciplinary Studies (General),33,New Hampshire,98196.406,.022129131,96070.453
+52,Psychology,33,New Hampshire,98921.828,.029680043,96070.453
+49,Theology and Religious Vocations,33,New Hampshire,75225.609,-.21697454,96070.453
+99,Economics,33,New Hampshire,120595.11,.25527781,96070.453
+59,Transportation Sciences and Technologies,33,New Hampshire,109409.13,.1388427,96070.453
+55,Social Sciences,33,New Hampshire,107481.97,.11878277,96070.453
+64,History,33,New Hampshire,102546.47,.067409046,96070.453
+21,Computer and Information Sciences,33,New Hampshire,111475.75,.16035418,96070.453
+60,Fine Arts,33,New Hampshire,77992.953,-.18816923,96070.453
+37,Mathematics and Statistics,34,New Jersey,171371.98,.45685554,117631.42
+99,Economics,34,New Jersey,178013.53,.51331615,117631.42
+20,Communication Technologies,34,New Jersey,141212.73,.20046782,117631.42
+36,Biology and Life Sciences,34,New Jersey,167359.72,.42274669,117631.42
+24,Engineering,34,New Jersey,173129.42,.47179571,117631.42
+23,Education Administration and Teaching,34,New Jersey,125912.77,.070400789,117631.42
+29,Family and Consumer Sciences,34,New Jersey,135813.69,.15456982,117631.42
+52,Psychology,34,New Jersey,133495.25,.13486043,117631.42
+60,Fine Arts,34,New Jersey,112317.56,-.045173828,117631.42
+25,Engineering Technologies,34,New Jersey,154231.98,.31114617,117631.42
+22,Cosmetology Services and Culinary Arts,34,New Jersey,120896.27,.027754931,117631.42
+64,History,34,New Jersey,140194.98,.19181579,117631.42
+41,"Physical Fitness, Parks, Recreation, and Leisure",34,New Jersey,121822.27,.03562694,117631.42
+53,Criminal Justice and Fire Protection,34,New Jersey,129354.05,.099655554,117631.42
+51,"Nuclear, Industrial Radiology, and Biological Technologies",34,New Jersey,146027.67,.2414002,117631.42
+55,Social Sciences,34,New Jersey,150679.63,.28094703,117631.42
+11,Agriculture,34,New Jersey,141193.31,.20030268,117631.42
+32,Law,34,New Jersey,146151.53,.24245313,117631.42
+56,Construction Services,34,New Jersey,157715.52,.34076011,117631.42
+33,"English Language, Literature, and Composition",34,New Jersey,136261.08,.15837312,117631.42
+13,Environment and Natural Resources,34,New Jersey,141016.78,.19880193,117631.42
+54,"Public Affairs, Policy, and Social Work",34,New Jersey,132198.98,.12384072,117631.42
+49,Theology and Religious Vocations,34,New Jersey,74143.898,-.3696931,117631.42
+50,Physical Sciences,34,New Jersey,164550.5,.39886516,117631.42
+15,"Area, Ethnic, and Civilization Studies",34,New Jersey,141227.47,.20059307,117631.42
+19,Communications,34,New Jersey,141153.34,.19996296,117631.42
+61,Medical and Health Sciences and Services,34,New Jersey,160961.56,.36835518,117631.42
+26,Linguistics and Foreign Languages,34,New Jersey,134389.38,.14246158,117631.42
+35,Library Science,34,New Jersey,131796.05,.12041535,117631.42
+62,Business,34,New Jersey,157224.86,.33658895,117631.42
+48,Philosophy and Religious Studies,34,New Jersey,126467.98,.075120755,117631.42
+14,Architecture,34,New Jersey,141481.19,.20274997,117631.42
+59,Transportation Sciences and Technologies,34,New Jersey,155114.91,.31865191,117631.42
+40,Interdisciplinary and Multi-Disciplinary Studies (General),34,New Jersey,138501.47,.17741904,117631.42
+21,Computer and Information Sciences,34,New Jersey,158386.31,.34646264,117631.42
+52,Psychology,35,New Mexico,81419.023,-.00081405678,81485.359
+99,Economics,35,New Mexico,88195.203,.082344174,81485.359
+40,Interdisciplinary and Multi-Disciplinary Studies (General),35,New Mexico,94758.039,.16288427,81485.359
+13,Environment and Natural Resources,35,New Mexico,85527.367,.049604096,81485.359
+49,Theology and Religious Vocations,35,New Mexico,81551.805,.00081539445,81485.359
+11,Agriculture,35,New Mexico,85078.078,.044090401,81485.359
+64,History,35,New Mexico,81058.977,-.0052326317,81485.359
+19,Communications,35,New Mexico,85847.078,.053527631,81485.359
+26,Linguistics and Foreign Languages,35,New Mexico,80572.969,-.011197031,81485.359
+53,Criminal Justice and Fire Protection,35,New Mexico,80150.984,-.016375687,81485.359
+41,"Physical Fitness, Parks, Recreation, and Leisure",35,New Mexico,90795.586,.11425646,81485.359
+61,Medical and Health Sciences and Services,35,New Mexico,101858.86,.25002652,81485.359
+33,"English Language, Literature, and Composition",35,New Mexico,80014.359,-.01805228,81485.359
+60,Fine Arts,35,New Mexico,55246.996,-.32200095,81485.359
+62,Business,35,New Mexico,92555.906,.13585931,81485.359
+36,Biology and Life Sciences,35,New Mexico,112610.28,.38196948,81485.359
+59,Transportation Sciences and Technologies,35,New Mexico,98607.281,.21012266,81485.359
+32,Law,35,New Mexico,86432.109,.0607072,81485.359
+24,Engineering,35,New Mexico,112100.42,.37571242,81485.359
+51,"Nuclear, Industrial Radiology, and Biological Technologies",35,New Mexico,118927.72,.45949799,81485.359
+35,Library Science,35,New Mexico,79643.336,-.022605609,81485.359
+54,"Public Affairs, Policy, and Social Work",35,New Mexico,72602.672,-.10900961,81485.359
+55,Social Sciences,35,New Mexico,82055.789,.007000356,81485.359
+22,Cosmetology Services and Culinary Arts,35,New Mexico,84354.883,.03521524,81485.359
+37,Mathematics and Statistics,35,New Mexico,105861.44,.29914671,81485.359
+14,Architecture,35,New Mexico,85506.641,.049349699,81485.359
+20,Communication Technologies,35,New Mexico,85100.797,.044369128,81485.359
+15,"Area, Ethnic, and Civilization Studies",35,New Mexico,85467.445,.048868705,81485.359
+29,Family and Consumer Sciences,35,New Mexico,74837.492,-.08158356,81485.359
+48,Philosophy and Religious Studies,35,New Mexico,74665.109,-.083699062,81485.359
+23,Education Administration and Teaching,35,New Mexico,80059.125,-.017502923,81485.359
+25,Engineering Technologies,35,New Mexico,93482,.14722449,81485.359
+56,Construction Services,35,New Mexico,108303.65,.32911786,81485.359
+50,Physical Sciences,35,New Mexico,111424.25,.36741433,81485.359
+21,Computer and Information Sciences,35,New Mexico,96974.625,.19008651,81485.359
+15,"Area, Ethnic, and Civilization Studies",36,New York,127667.83,.1905801,107231.62
+51,"Nuclear, Industrial Radiology, and Biological Technologies",36,New York,135185.95,.26069111,107231.62
+14,Architecture,36,New York,131669.2,.22789541,107231.62
+23,Education Administration and Teaching,36,New York,108591.78,.012684326,107231.62
+20,Communication Technologies,36,New York,107661.18,.0040058964,107231.62
+21,Computer and Information Sciences,36,New York,137972.05,.28667322,107231.62
+59,Transportation Sciences and Technologies,36,New York,131588.83,.22714582,107231.62
+29,Family and Consumer Sciences,36,New York,108265.94,.0096456632,107231.62
+55,Social Sciences,36,New York,132767.73,.23813988,107231.62
+52,Psychology,36,New York,117218.92,.093137667,107231.62
+13,Environment and Natural Resources,36,New York,110070.13,.026470829,107231.62
+25,Engineering Technologies,36,New York,119565.8,.11502372,107231.62
+40,Interdisciplinary and Multi-Disciplinary Studies (General),36,New York,123632.31,.15294647,107231.62
+36,Biology and Life Sciences,36,New York,142640.91,.33021307,107231.62
+32,Law,36,New York,103656.56,-.033339571,107231.62
+50,Physical Sciences,36,New York,135216.2,.2609733,107231.62
+24,Engineering,36,New York,145026.39,.35245928,107231.62
+37,Mathematics and Statistics,36,New York,143864.95,.34162813,107231.62
+61,Medical and Health Sciences and Services,36,New York,137729.36,.28441003,107231.62
+99,Economics,36,New York,162635.86,.51667821,107231.62
+41,"Physical Fitness, Parks, Recreation, and Leisure",36,New York,96790.375,-.0973709,107231.62
+26,Linguistics and Foreign Languages,36,New York,122127.69,.1389149,107231.62
+54,"Public Affairs, Policy, and Social Work",36,New York,106923.13,-.0028769048,107231.62
+62,Business,36,New York,135649.8,.26501685,107231.62
+33,"English Language, Literature, and Composition",36,New York,120227.2,.12119173,107231.62
+56,Construction Services,36,New York,126020.62,.17521888,107231.62
+19,Communications,36,New York,121497.68,.1330397,107231.62
+49,Theology and Religious Vocations,36,New York,69086.016,-.35573095,107231.62
+48,Philosophy and Religious Studies,36,New York,119531.9,.11470757,107231.62
+11,Agriculture,36,New York,111371.84,.038610149,107231.62
+22,Cosmetology Services and Culinary Arts,36,New York,94478.555,-.11893007,107231.62
+64,History,36,New York,129566.61,.20828739,107231.62
+53,Criminal Justice and Fire Protection,36,New York,110754.51,.032853078,107231.62
+60,Fine Arts,36,New York,102606.48,-.043132197,107231.62
+35,Library Science,36,New York,112389.52,.048100617,107231.62
+35,Library Science,37,North Carolina,92161.094,.009362814,91306.211
+37,Mathematics and Statistics,37,North Carolina,115820.25,.26848158,91306.211
+61,Medical and Health Sciences and Services,37,North Carolina,116956.18,.28092253,91306.211
+14,Architecture,37,North Carolina,99583.602,.090655275,91306.211
+51,"Nuclear, Industrial Radiology, and Biological Technologies",37,North Carolina,103413.84,.13260464,91306.211
+24,Engineering,37,North Carolina,126533.59,.38581583,91306.211
+52,Psychology,37,North Carolina,92885.563,.017297275,91306.211
+64,History,37,North Carolina,94529.914,.035306547,91306.211
+60,Fine Arts,37,North Carolina,74204.156,-.18730439,91306.211
+29,Family and Consumer Sciences,37,North Carolina,88409.727,-.031722795,91306.211
+13,Environment and Natural Resources,37,North Carolina,98431.219,.07803423,91306.211
+50,Physical Sciences,37,North Carolina,119871.13,.31284744,91306.211
+21,Computer and Information Sciences,37,North Carolina,116180.8,.27243045,91306.211
+25,Engineering Technologies,37,North Carolina,108787.77,.19146073,91306.211
+41,"Physical Fitness, Parks, Recreation, and Leisure",37,North Carolina,91094.844,-.0023149056,91306.211
+22,Cosmetology Services and Culinary Arts,37,North Carolina,87013.875,-.047010299,91306.211
+32,Law,37,North Carolina,90649.539,-.0071919658,91306.211
+36,Biology and Life Sciences,37,North Carolina,124929.87,.36825159,91306.211
+62,Business,37,North Carolina,111752.44,.22393025,91306.211
+11,Agriculture,37,North Carolina,98768.391,.081726976,91306.211
+33,"English Language, Literature, and Composition",37,North Carolina,91518.078,.0023204221,91306.211
+19,Communications,37,North Carolina,98821.836,.082312346,91306.211
+26,Linguistics and Foreign Languages,37,North Carolina,89739.461,-.017159279,91306.211
+49,Theology and Religious Vocations,37,North Carolina,63223.16,-.30757001,91306.211
+99,Economics,37,North Carolina,127149.69,.39256337,91306.211
+53,Criminal Justice and Fire Protection,37,North Carolina,89092.398,-.024245994,91306.211
+54,"Public Affairs, Policy, and Social Work",37,North Carolina,86978.156,-.047401559,91306.211
+20,Communication Technologies,37,North Carolina,96584.141,.057804722,91306.211
+40,Interdisciplinary and Multi-Disciplinary Studies (General),37,North Carolina,94251.867,.032261308,91306.211
+23,Education Administration and Teaching,37,North Carolina,83680.234,-.083520904,91306.211
+56,Construction Services,37,North Carolina,117896.92,.29122561,91306.211
+15,"Area, Ethnic, and Civilization Studies",37,North Carolina,98656.828,.080505125,91306.211
+48,Philosophy and Religious Studies,37,North Carolina,83887.781,-.081247769,91306.211
+59,Transportation Sciences and Technologies,37,North Carolina,113437.66,.24238706,91306.211
+55,Social Sciences,37,North Carolina,100452.71,.10017391,91306.211
+29,Family and Consumer Sciences,38,North Dakota,84092.992,.11797853,75218.789
+55,Social Sciences,38,North Dakota,81054.461,.077582642,75218.789
+19,Communications,38,North Dakota,85966.055,.14288011,75218.789
+60,Fine Arts,38,North Dakota,81363.016,.081684746,75218.789
+59,Transportation Sciences and Technologies,38,North Dakota,80182.727,.065993331,75218.789
+41,"Physical Fitness, Parks, Recreation, and Leisure",38,North Dakota,90492.438,.20305628,75218.789
+26,Linguistics and Foreign Languages,38,North Dakota,83929.609,.1158064,75218.789
+99,Economics,38,North Dakota,85383,.13512862,75218.789
+61,Medical and Health Sciences and Services,38,North Dakota,82322.219,.094436899,75218.789
+15,"Area, Ethnic, and Civilization Studies",38,North Dakota,82150.977,.092160314,75218.789
+20,Communication Technologies,38,North Dakota,85722.453,.13964154,75218.789
+22,Cosmetology Services and Culinary Arts,38,North Dakota,82206.789,.09290234,75218.789
+54,"Public Affairs, Policy, and Social Work",38,North Dakota,82351.078,.094820611,75218.789
+48,Philosophy and Religious Studies,38,North Dakota,90384.414,.20162016,75218.789
+52,Psychology,38,North Dakota,81809.18,.087616332,75218.789
+40,Interdisciplinary and Multi-Disciplinary Studies (General),38,North Dakota,93565.914,.24391681,75218.789
+23,Education Administration and Teaching,38,North Dakota,89626.477,.19154374,75218.789
+25,Engineering Technologies,38,North Dakota,80070.016,.064494886,75218.789
+14,Architecture,38,North Dakota,81344.938,.081444427,75218.789
+24,Engineering,38,North Dakota,62528.68,-.16870929,75218.789
+51,"Nuclear, Industrial Radiology, and Biological Technologies",38,North Dakota,80807.359,.074297562,75218.789
+13,Environment and Natural Resources,38,North Dakota,81644.563,.085427724,75218.789
+53,Criminal Justice and Fire Protection,38,North Dakota,82091.25,.091366306,75218.789
+64,History,38,North Dakota,80786.531,.074020654,75218.789
+49,Theology and Religious Vocations,38,North Dakota,94087.531,.25085148,75218.789
+32,Law,38,North Dakota,82476.789,.096491881,75218.789
+56,Construction Services,38,North Dakota,79692.266,.059472904,75218.789
+37,Mathematics and Statistics,38,North Dakota,79358.68,.055037972,75218.789
+11,Agriculture,38,North Dakota,81415.82,.082386695,75218.789
+35,Library Science,38,North Dakota,-23200.445,-1.3084395,75218.789
+36,Biology and Life Sciences,38,North Dakota,22493.549,-.70095837,75218.789
+33,"English Language, Literature, and Composition",38,North Dakota,82898.656,.10210034,75218.789
+62,Business,38,North Dakota,82412.875,.09564212,75218.789
+21,Computer and Information Sciences,38,North Dakota,75649.289,.0057232836,75218.789
+50,Physical Sciences,38,North Dakota,72802.484,-.032123659,75218.789
+25,Engineering Technologies,39,Ohio,112088.63,.26410341,88670.453
+62,Business,39,Ohio,116993.8,.31942266,88670.453
+21,Computer and Information Sciences,39,Ohio,116906.57,.31843883,88670.453
+19,Communications,39,Ohio,102705.97,.15828849,88670.453
+26,Linguistics and Foreign Languages,39,Ohio,97618.102,.100909,88670.453
+15,"Area, Ethnic, and Civilization Studies",39,Ohio,102636.59,.15750612,88670.453
+56,Construction Services,39,Ohio,118396.57,.33524263,88670.453
+49,Theology and Religious Vocations,39,Ohio,69067.047,-.2210816,88670.453
+99,Economics,39,Ohio,129055.88,.45545536,88670.453
+50,Physical Sciences,39,Ohio,124666.77,.40595615,88670.453
+59,Transportation Sciences and Technologies,39,Ohio,116124.78,.30962208,88670.453
+64,History,39,Ohio,97297.734,.097296052,88670.453
+48,Philosophy and Religious Studies,39,Ohio,93449.266,.053894095,88670.453
+33,"English Language, Literature, and Composition",39,Ohio,90674.625,.022602474,88670.453
+60,Fine Arts,39,Ohio,78503.258,-.11466268,88670.453
+24,Engineering,39,Ohio,132106.97,.48986459,88670.453
+14,Architecture,39,Ohio,103192.73,.16377816,88670.453
+51,"Nuclear, Industrial Radiology, and Biological Technologies",39,Ohio,113243.13,.27712354,88670.453
+36,Biology and Life Sciences,39,Ohio,126317.06,.42456767,88670.453
+11,Agriculture,39,Ohio,102844.72,.15985335,88670.453
+22,Cosmetology Services and Culinary Arts,39,Ohio,93240.781,.051542889,88670.453
+55,Social Sciences,39,Ohio,104596.35,.17960772,88670.453
+20,Communication Technologies,39,Ohio,96682.555,.090358205,88670.453
+35,Library Science,39,Ohio,96380.297,.08694943,88670.453
+32,Law,39,Ohio,93157.57,.050604444,88670.453
+13,Environment and Natural Resources,39,Ohio,102876.32,.16020969,88670.453
+61,Medical and Health Sciences and Services,39,Ohio,121321.54,.3682296,88670.453
+40,Interdisciplinary and Multi-Disciplinary Studies (General),39,Ohio,98571.594,.11166225,88670.453
+52,Psychology,39,Ohio,97749.938,.1023958,88670.453
+29,Family and Consumer Sciences,39,Ohio,90905.008,.025200678,88670.453
+23,Education Administration and Teaching,39,Ohio,93495.219,.054412313,88670.453
+37,Mathematics and Statistics,39,Ohio,121995.09,.3758257,88670.453
+53,Criminal Justice and Fire Protection,39,Ohio,92920.477,.047930539,88670.453
+54,"Public Affairs, Policy, and Social Work",39,Ohio,87868.758,-.0090412581,88670.453
+41,"Physical Fitness, Parks, Recreation, and Leisure",39,Ohio,95411.492,.076023497,88670.453
+21,Computer and Information Sciences,40,Oklahoma,94942.07,.20031707,79097.492
+14,Architecture,40,Oklahoma,94567.961,.19558732,79097.492
+56,Construction Services,40,Oklahoma,109089.73,.37918073,79097.492
+33,"English Language, Literature, and Composition",40,Oklahoma,82570.352,.043906104,79097.492
+99,Economics,40,Oklahoma,111803.59,.41349086,79097.492
+37,Mathematics and Statistics,40,Oklahoma,97948.961,.23833208,79097.492
+54,"Public Affairs, Policy, and Social Work",40,Oklahoma,84800.313,.072098605,79097.492
+20,Communication Technologies,40,Oklahoma,94008.602,.18851556,79097.492
+60,Fine Arts,40,Oklahoma,74747.727,-.054992426,79097.492
+13,Environment and Natural Resources,40,Oklahoma,94149.586,.19029799,79097.492
+35,Library Science,40,Oklahoma,91618.5,.15829837,79097.492
+53,Criminal Justice and Fire Protection,40,Oklahoma,83619.695,.057172533,79097.492
+55,Social Sciences,40,Oklahoma,92431.07,.16857144,79097.492
+36,Biology and Life Sciences,40,Oklahoma,111760,.41293985,79097.492
+52,Psychology,40,Oklahoma,85375,.079364143,79097.492
+29,Family and Consumer Sciences,40,Oklahoma,87905.438,.11135552,79097.492
+49,Theology and Religious Vocations,40,Oklahoma,70378.289,-.11023363,79097.492
+24,Engineering,40,Oklahoma,118171.5,.49399808,79097.492
+19,Communications,40,Oklahoma,94003.383,.18844961,79097.492
+62,Business,40,Oklahoma,105973.42,.33978236,79097.492
+32,Law,40,Oklahoma,97905.734,.23778558,79097.492
+41,"Physical Fitness, Parks, Recreation, and Leisure",40,Oklahoma,87288.773,.10355935,79097.492
+40,Interdisciplinary and Multi-Disciplinary Studies (General),40,Oklahoma,88469.367,.11848513,79097.492
+48,Philosophy and Religious Studies,40,Oklahoma,82917.602,.048296176,79097.492
+59,Transportation Sciences and Technologies,40,Oklahoma,102518.14,.29609853,79097.492
+64,History,40,Oklahoma,88469.711,.11848942,79097.492
+25,Engineering Technologies,40,Oklahoma,100929.91,.27601913,79097.492
+22,Cosmetology Services and Culinary Arts,40,Oklahoma,93787.844,.1857246,79097.492
+61,Medical and Health Sciences and Services,40,Oklahoma,112283.39,.41955689,79097.492
+23,Education Administration and Teaching,40,Oklahoma,90023.625,.138135,79097.492
+51,"Nuclear, Industrial Radiology, and Biological Technologies",40,Oklahoma,112152.14,.41789755,79097.492
+50,Physical Sciences,40,Oklahoma,106060.89,.3408882,79097.492
+26,Linguistics and Foreign Languages,40,Oklahoma,86601.164,.094866164,79097.492
+11,Agriculture,40,Oklahoma,94019.039,.18864757,79097.492
+15,"Area, Ethnic, and Civilization Studies",40,Oklahoma,94011.055,.18854657,79097.492
+13,Environment and Natural Resources,41,Oregon,110824.01,.23110554,90019.906
+29,Family and Consumer Sciences,41,Oregon,93299.531,.036432195,90019.906
+61,Medical and Health Sciences and Services,41,Oregon,130130.32,.44557273,90019.906
+23,Education Administration and Teaching,41,Oregon,95315.547,.058827411,90019.906
+52,Psychology,41,Oregon,105977.27,.17726475,90019.906
+25,Engineering Technologies,41,Oregon,124125.27,.37886468,90019.906
+54,"Public Affairs, Policy, and Social Work",41,Oregon,102809.31,.14207308,90019.906
+51,"Nuclear, Industrial Radiology, and Biological Technologies",41,Oregon,128417.23,.42654267,90019.906
+35,Library Science,41,Oregon,112779.27,.25282595,90019.906
+21,Computer and Information Sciences,41,Oregon,125289.82,.3918013,90019.906
+53,Criminal Justice and Fire Protection,41,Oregon,111397.32,.23747428,90019.906
+37,Mathematics and Statistics,41,Oregon,122010.77,.35537541,90019.906
+32,Law,41,Oregon,116666.32,.29600576,90019.906
+59,Transportation Sciences and Technologies,41,Oregon,113927.06,.26557633,90019.906
+20,Communication Technologies,41,Oregon,109974.84,.22167237,90019.906
+55,Social Sciences,41,Oregon,108394.95,.20412192,90019.906
+49,Theology and Religious Vocations,41,Oregon,82135.172,-.087588809,90019.906
+15,"Area, Ethnic, and Civilization Studies",41,Oregon,110349.44,.22583373,90019.906
+14,Architecture,41,Oregon,111551.77,.23918995,90019.906
+41,"Physical Fitness, Parks, Recreation, and Leisure",41,Oregon,97518.805,.083302706,90019.906
+62,Business,41,Oregon,123515.73,.3720935,90019.906
+22,Cosmetology Services and Culinary Arts,41,Oregon,101529.91,.1278607,90019.906
+11,Agriculture,41,Oregon,111324.4,.23666424,90019.906
+50,Physical Sciences,41,Oregon,127510.62,.41647133,90019.906
+99,Economics,41,Oregon,129722.5,.44104242,90019.906
+26,Linguistics and Foreign Languages,41,Oregon,96584.422,.072922975,90019.906
+33,"English Language, Literature, and Composition",41,Oregon,99198.508,.10196187,90019.906
+40,Interdisciplinary and Multi-Disciplinary Studies (General),41,Oregon,108226.51,.20225084,90019.906
+56,Construction Services,41,Oregon,133724.38,.48549783,90019.906
+36,Biology and Life Sciences,41,Oregon,130249.76,.4468995,90019.906
+60,Fine Arts,41,Oregon,88079.992,-.021549873,90019.906
+64,History,41,Oregon,101279.3,.12507673,90019.906
+48,Philosophy and Religious Studies,41,Oregon,101860.1,.1315286,90019.906
+19,Communications,41,Oregon,111070.23,.23384082,90019.906
+24,Engineering,41,Oregon,144822.77,.60878599,90019.906
+32,Law,42,Pennsylvania,102683.81,.11523944,92073.336
+64,History,42,Pennsylvania,108383.38,.17714186,92073.336
+53,Criminal Justice and Fire Protection,42,Pennsylvania,101484.88,.10221791,92073.336
+20,Communication Technologies,42,Pennsylvania,101505.02,.10243661,92073.336
+23,Education Administration and Teaching,42,Pennsylvania,97859.586,.062843956,92073.336
+13,Environment and Natural Resources,42,Pennsylvania,108580.59,.17928378,92073.336
+36,Biology and Life Sciences,42,Pennsylvania,134583.36,.4616974,92073.336
+24,Engineering,42,Pennsylvania,138705.73,.5064702,92073.336
+14,Architecture,42,Pennsylvania,109569.67,.19002606,92073.336
+51,"Nuclear, Industrial Radiology, and Biological Technologies",42,Pennsylvania,120451.07,.30820799,92073.336
+55,Social Sciences,42,Pennsylvania,109696.04,.19139859,92073.336
+15,"Area, Ethnic, and Civilization Studies",42,Pennsylvania,109898.61,.19359861,92073.336
+41,"Physical Fitness, Parks, Recreation, and Leisure",42,Pennsylvania,96723.516,.050505213,92073.336
+99,Economics,42,Pennsylvania,136463.7,.48211965,92073.336
+25,Engineering Technologies,42,Pennsylvania,123043.87,.33636805,92073.336
+19,Communications,42,Pennsylvania,106443.98,.15607828,92073.336
+29,Family and Consumer Sciences,42,Pennsylvania,87461.352,-.050090376,92073.336
+61,Medical and Health Sciences and Services,42,Pennsylvania,127618.78,.38605583,92073.336
+37,Mathematics and Statistics,42,Pennsylvania,130579.45,.41821134,92073.336
+21,Computer and Information Sciences,42,Pennsylvania,121564.05,.32029587,92073.336
+59,Transportation Sciences and Technologies,42,Pennsylvania,124834.12,.35581183,92073.336
+26,Linguistics and Foreign Languages,42,Pennsylvania,106375.8,.15533772,92073.336
+35,Library Science,42,Pennsylvania,93598.383,.016563408,92073.336
+54,"Public Affairs, Policy, and Social Work",42,Pennsylvania,96291.734,.045815676,92073.336
+60,Fine Arts,42,Pennsylvania,83027.727,-.09824352,92073.336
+40,Interdisciplinary and Multi-Disciplinary Studies (General),42,Pennsylvania,109434.85,.18856181,92073.336
+33,"English Language, Literature, and Composition",42,Pennsylvania,99512.688,.080798119,92073.336
+49,Theology and Religious Vocations,42,Pennsylvania,71015.711,-.22870494,92073.336
+22,Cosmetology Services and Culinary Arts,42,Pennsylvania,101004.44,.096999869,92073.336
+48,Philosophy and Religious Studies,42,Pennsylvania,97024.203,.05377093,92073.336
+50,Physical Sciences,42,Pennsylvania,128102,.39130402,92073.336
+56,Construction Services,42,Pennsylvania,126188.33,.37051979,92073.336
+62,Business,42,Pennsylvania,120614.65,.30998459,92073.336
+52,Psychology,42,Pennsylvania,102992.53,.11859234,92073.336
+11,Agriculture,42,Pennsylvania,108167.38,.17479593,92073.336
+49,Theology and Religious Vocations,44,Rhode Island,93508,-.002956077,93785.234
+61,Medical and Health Sciences and Services,44,Rhode Island,107859.58,.15006989,93785.234
+41,"Physical Fitness, Parks, Recreation, and Leisure",44,Rhode Island,95749.539,.020944726,93785.234
+25,Engineering Technologies,44,Rhode Island,98497.305,.05024321,93785.234
+13,Environment and Natural Resources,44,Rhode Island,98565.617,.050971575,93785.234
+21,Computer and Information Sciences,44,Rhode Island,101150.61,.078534447,93785.234
+32,Law,44,Rhode Island,98728.141,.052704487,93785.234
+14,Architecture,44,Rhode Island,98912.727,.054672733,93785.234
+55,Social Sciences,44,Rhode Island,104321.69,.11234663,93785.234
+35,Library Science,44,Rhode Island,98435.68,.049586155,93785.234
+19,Communications,44,Rhode Island,98579.836,.051123213,93785.234
+29,Family and Consumer Sciences,44,Rhode Island,98263.188,.047746874,93785.234
+64,History,44,Rhode Island,100119.32,.067538165,93785.234
+20,Communication Technologies,44,Rhode Island,97899.656,.043870702,93785.234
+54,"Public Affairs, Policy, and Social Work",44,Rhode Island,96944.055,.033681434,93785.234
+24,Engineering,44,Rhode Island,110962.97,.18316031,93785.234
+60,Fine Arts,44,Rhode Island,88154.938,-.060033955,93785.234
+59,Transportation Sciences and Technologies,44,Rhode Island,95750.219,.020951953,93785.234
+11,Agriculture,44,Rhode Island,98546.563,.05076845,93785.234
+23,Education Administration and Teaching,44,Rhode Island,97702.805,.041771676,93785.234
+33,"English Language, Literature, and Composition",44,Rhode Island,98656.383,.051939417,93785.234
+62,Business,44,Rhode Island,103419.4,.10272585,93785.234
+53,Criminal Justice and Fire Protection,44,Rhode Island,100915.79,.076030634,93785.234
+36,Biology and Life Sciences,44,Rhode Island,108625.49,.15823665,93785.234
+15,"Area, Ethnic, and Civilization Studies",44,Rhode Island,98105.258,.046062976,93785.234
+22,Cosmetology Services and Culinary Arts,44,Rhode Island,97758.781,.042368572,93785.234
+48,Philosophy and Religious Studies,44,Rhode Island,94823.367,.011069247,93785.234
+37,Mathematics and Statistics,44,Rhode Island,101440.14,.081621654,93785.234
+56,Construction Services,44,Rhode Island,96887.078,.033073943,93785.234
+51,"Nuclear, Industrial Radiology, and Biological Technologies",44,Rhode Island,98967.359,.055255212,93785.234
+52,Psychology,44,Rhode Island,96273.492,.026531454,93785.234
+99,Economics,44,Rhode Island,106710.44,.13781703,93785.234
+50,Physical Sciences,44,Rhode Island,108692.43,.15895033,93785.234
+40,Interdisciplinary and Multi-Disciplinary Studies (General),44,Rhode Island,99350.344,.059338868,93785.234
+26,Linguistics and Foreign Languages,44,Rhode Island,95689.289,.020302322,93785.234
+37,Mathematics and Statistics,45,South Carolina,115330.84,.37280357,84011.18
+20,Communication Technologies,45,South Carolina,105576.41,.2566947,84011.18
+25,Engineering Technologies,45,South Carolina,108105.25,.28679603,84011.18
+52,Psychology,45,South Carolina,98847.633,.17660093,84011.18
+22,Cosmetology Services and Culinary Arts,45,South Carolina,93085.414,.10801221,84011.18
+99,Economics,45,South Carolina,122116.57,.45357519,84011.18
+13,Environment and Natural Resources,45,South Carolina,105268.6,.25303087,84011.18
+64,History,45,South Carolina,104658.36,.24576703,84011.18
+61,Medical and Health Sciences and Services,45,South Carolina,119918.76,.4274143,84011.18
+14,Architecture,45,South Carolina,105348.82,.25398573,84011.18
+53,Criminal Justice and Fire Protection,45,South Carolina,93790.281,.11640242,84011.18
+54,"Public Affairs, Policy, and Social Work",45,South Carolina,92190.258,.097356975,84011.18
+60,Fine Arts,45,South Carolina,83715.922,-.0035145497,84011.18
+48,Philosophy and Religious Studies,45,South Carolina,94699.664,.12722696,84011.18
+11,Agriculture,45,South Carolina,105426.55,.25491089,84011.18
+23,Education Administration and Teaching,45,South Carolina,93654.492,.11478604,84011.18
+29,Family and Consumer Sciences,45,South Carolina,96604.523,.14990078,84011.18
+19,Communications,45,South Carolina,105552.23,.2564069,84011.18
+15,"Area, Ethnic, and Civilization Studies",45,South Carolina,105457.2,.25527585,84011.18
+62,Business,45,South Carolina,111304.28,.32487464,84011.18
+40,Interdisciplinary and Multi-Disciplinary Studies (General),45,South Carolina,95525.805,.13706063,84011.18
+50,Physical Sciences,45,South Carolina,120108.54,.42967331,84011.18
+26,Linguistics and Foreign Languages,45,South Carolina,103880.94,.23651323,84011.18
+36,Biology and Life Sciences,45,South Carolina,121882.55,.45078972,84011.18
+55,Social Sciences,45,South Carolina,102388.08,.21874347,84011.18
+33,"English Language, Literature, and Composition",45,South Carolina,94753.547,.12786832,84011.18
+49,Theology and Religious Vocations,45,South Carolina,75645.602,-.099576935,84011.18
+32,Law,45,South Carolina,110770.23,.3185178,84011.18
+56,Construction Services,45,South Carolina,137295.94,.63425797,84011.18
+41,"Physical Fitness, Parks, Recreation, and Leisure",45,South Carolina,97560.297,.16127756,84011.18
+21,Computer and Information Sciences,45,South Carolina,106717.1,.27027261,84011.18
+59,Transportation Sciences and Technologies,45,South Carolina,114113.89,.35831791,84011.18
+24,Engineering,45,South Carolina,130883.82,.55793333,84011.18
+35,Library Science,45,South Carolina,104402.13,.24271709,84011.18
+51,"Nuclear, Industrial Radiology, and Biological Technologies",45,South Carolina,121794.35,.44973981,84011.18
+25,Engineering Technologies,46,South Dakota,77726.93,.089700215,71328.727
+15,"Area, Ethnic, and Civilization Studies",46,South Dakota,71049.922,-.0039087776,71328.727
+53,Criminal Justice and Fire Protection,46,South Dakota,73654.492,.03260633,71328.727
+13,Environment and Natural Resources,46,South Dakota,76577.914,.073591463,71328.727
+26,Linguistics and Foreign Languages,46,South Dakota,77752.68,.09006118,71328.727
+37,Mathematics and Statistics,46,South Dakota,84553.18,.18540147,71328.727
+60,Fine Arts,46,South Dakota,63905.344,-.10407286,71328.727
+14,Architecture,46,South Dakota,76876.898,.077783152,71328.727
+21,Computer and Information Sciences,46,South Dakota,84675.297,.18711351,71328.727
+35,Library Science,46,South Dakota,55096.391,-.22757083,71328.727
+19,Communications,46,South Dakota,80248.367,.12504978,71328.727
+33,"English Language, Literature, and Composition",46,South Dakota,75056,.052254859,71328.727
+56,Construction Services,46,South Dakota,96213.867,.34887969,71328.727
+62,Business,46,South Dakota,87484.5,.22649749,71328.727
+23,Education Administration and Teaching,46,South Dakota,71865.516,.0075255879,71328.727
+24,Engineering,46,South Dakota,89740.18,.2581211,71328.727
+36,Biology and Life Sciences,46,South Dakota,95014.68,.33206749,71328.727
+51,"Nuclear, Industrial Radiology, and Biological Technologies",46,South Dakota,79303.938,.11180922,71328.727
+54,"Public Affairs, Policy, and Social Work",46,South Dakota,73787.438,.034470096,71328.727
+55,Social Sciences,46,South Dakota,74886.43,.049877569,71328.727
+41,"Physical Fitness, Parks, Recreation, and Leisure",46,South Dakota,69433.57,-.026569273,71328.727
+49,Theology and Religious Vocations,46,South Dakota,62034.598,-.13029996,71328.727
+32,Law,46,South Dakota,74506.836,.044555776,71328.727
+99,Economics,46,South Dakota,93317.07,.30826774,71328.727
+59,Transportation Sciences and Technologies,46,South Dakota,86941.883,.21889012,71328.727
+11,Agriculture,46,South Dakota,77318.141,.083969221,71328.727
+48,Philosophy and Religious Studies,46,South Dakota,66944.953,-.061458699,71328.727
+22,Cosmetology Services and Culinary Arts,46,South Dakota,78548.133,.1012132,71328.727
+20,Communication Technologies,46,South Dakota,76138.617,.067432716,71328.727
+29,Family and Consumer Sciences,46,South Dakota,69275.141,-.0287905,71328.727
+64,History,46,South Dakota,71052.766,-.0038688458,71328.727
+61,Medical and Health Sciences and Services,46,South Dakota,95888.234,.3443144,71328.727
+40,Interdisciplinary and Multi-Disciplinary Studies (General),46,South Dakota,75418.734,.057340313,71328.727
+52,Psychology,46,South Dakota,75162.055,.053741749,71328.727
+50,Physical Sciences,46,South Dakota,94068.477,.31880215,71328.727
+99,Economics,47,Tennessee,133521.72,.52379662,87624.367
+59,Transportation Sciences and Technologies,47,Tennessee,129539.48,.47835004,87624.367
+26,Linguistics and Foreign Languages,47,Tennessee,98357.297,.122488,87624.367
+15,"Area, Ethnic, and Civilization Studies",47,Tennessee,104333.26,.19068775,87624.367
+11,Agriculture,47,Tennessee,104320.65,.1905438,87624.367
+41,"Physical Fitness, Parks, Recreation, and Leisure",47,Tennessee,96235.477,.098272972,87624.367
+52,Psychology,47,Tennessee,96437.242,.1005756,87624.367
+21,Computer and Information Sciences,47,Tennessee,109356.98,.24802019,87624.367
+49,Theology and Religious Vocations,47,Tennessee,77325.898,-.11752974,87624.367
+23,Education Administration and Teaching,47,Tennessee,97162.734,.10885517,87624.367
+32,Law,47,Tennessee,102756.13,.17268905,87624.367
+25,Engineering Technologies,47,Tennessee,105523.2,.20426767,87624.367
+56,Construction Services,47,Tennessee,127194.14,.45158416,87624.367
+54,"Public Affairs, Policy, and Social Work",47,Tennessee,90055.047,.027739782,87624.367
+60,Fine Arts,47,Tennessee,83140.68,-.051169384,87624.367
+35,Library Science,47,Tennessee,102090.85,.16509655,87624.367
+20,Communication Technologies,47,Tennessee,104079.57,.18779258,87624.367
+14,Architecture,47,Tennessee,105960.26,.20925562,87624.367
+40,Interdisciplinary and Multi-Disciplinary Studies (General),47,Tennessee,94778.305,.081643239,87624.367
+55,Social Sciences,47,Tennessee,103392.7,.17995381,87624.367
+61,Medical and Health Sciences and Services,47,Tennessee,120950.93,.38033444,87624.367
+33,"English Language, Literature, and Composition",47,Tennessee,100287.98,.14452168,87624.367
+48,Philosophy and Religious Studies,47,Tennessee,91797.648,.047626942,87624.367
+22,Cosmetology Services and Culinary Arts,47,Tennessee,104283.17,.19011611,87624.367
+64,History,47,Tennessee,98462.664,.12369043,87624.367
+24,Engineering,47,Tennessee,124051.94,.41572419,87624.367
+19,Communications,47,Tennessee,104209.73,.18927802,87624.367
+62,Business,47,Tennessee,115287.68,.31570342,87624.367
+37,Mathematics and Statistics,47,Tennessee,112920.18,.2886847,87624.367
+53,Criminal Justice and Fire Protection,47,Tennessee,94398.711,.077311188,87624.367
+36,Biology and Life Sciences,47,Tennessee,121328.55,.38464403,87624.367
+50,Physical Sciences,47,Tennessee,120326.27,.37320551,87624.367
+29,Family and Consumer Sciences,47,Tennessee,95006.953,.084252641,87624.367
+51,"Nuclear, Industrial Radiology, and Biological Technologies",47,Tennessee,105951.91,.20916031,87624.367
+13,Environment and Natural Resources,47,Tennessee,103592.52,.18223414,87624.367
+26,Linguistics and Foreign Languages,48,Texas,104074.34,.035586424,100497.98
+25,Engineering Technologies,48,Texas,129811.15,.2916792,100497.98
+19,Communications,48,Texas,113037.03,.12476924,100497.98
+36,Biology and Life Sciences,48,Texas,136977.23,.36298504,100497.98
+60,Fine Arts,48,Texas,90137.047,-.10309587,100497.98
+23,Education Administration and Teaching,48,Texas,93240.711,-.072213016,100497.98
+53,Criminal Justice and Fire Protection,48,Texas,100519.83,.0002174281,100497.98
+56,Construction Services,48,Texas,143140.27,.42430991,100497.98
+35,Library Science,48,Texas,97092.211,-.033888917,100497.98
+59,Transportation Sciences and Technologies,48,Texas,133956.31,.33292547,100497.98
+41,"Physical Fitness, Parks, Recreation, and Leisure",48,Texas,102468.37,.019606264,100497.98
+32,Law,48,Texas,111212.14,.10661073,100497.98
+55,Social Sciences,48,Texas,115731.63,.15158167,100497.98
+13,Environment and Natural Resources,48,Texas,112975.49,.12415692,100497.98
+40,Interdisciplinary and Multi-Disciplinary Studies (General),48,Texas,106519.8,.059919879,100497.98
+21,Computer and Information Sciences,48,Texas,133481.95,.32820544,100497.98
+49,Theology and Religious Vocations,48,Texas,73048.961,-.27313006,100497.98
+62,Business,48,Texas,129383.73,.28742623,100497.98
+33,"English Language, Literature, and Composition",48,Texas,100093.3,-.0040267049,100497.98
+11,Agriculture,48,Texas,112595.55,.12037623,100497.98
+51,"Nuclear, Industrial Radiology, and Biological Technologies",48,Texas,125751.53,.25128418,100497.98
+14,Architecture,48,Texas,116399.89,.1582312,100497.98
+52,Psychology,48,Texas,106369.53,.058424581,100497.98
+29,Family and Consumer Sciences,48,Texas,96205.836,-.042708717,100497.98
+37,Mathematics and Statistics,48,Texas,124473.67,.23856893,100497.98
+50,Physical Sciences,48,Texas,134793.95,.34126037,100497.98
+20,Communication Technologies,48,Texas,102295.13,.017882437,100497.98
+54,"Public Affairs, Policy, and Social Work",48,Texas,96993.008,-.034875996,100497.98
+48,Philosophy and Religious Studies,48,Texas,99761.008,-.0073332004,100497.98
+99,Economics,48,Texas,142497.66,.41791567,100497.98
+61,Medical and Health Sciences and Services,48,Texas,131833.39,.31180149,100497.98
+22,Cosmetology Services and Culinary Arts,48,Texas,95819.148,-.046556458,100497.98
+15,"Area, Ethnic, and Civilization Studies",48,Texas,113219.42,.12658411,100497.98
+24,Engineering,48,Texas,151836.38,.51084012,100497.98
+64,History,48,Texas,106754.09,.062251214,100497.98
+29,Family and Consumer Sciences,49,Utah,92466.281,.023285262,90362.172
+21,Computer and Information Sciences,49,Utah,130347.19,.44249725,90362.172
+60,Fine Arts,49,Utah,96616.625,.069215424,90362.172
+48,Philosophy and Religious Studies,49,Utah,110570.91,.22364154,90362.172
+37,Mathematics and Statistics,49,Utah,126834.2,.4036206,90362.172
+51,"Nuclear, Industrial Radiology, and Biological Technologies",49,Utah,120524.87,.33379784,90362.172
+62,Business,49,Utah,131285.69,.45288321,90362.172
+32,Law,49,Utah,128401.17,.42096156,90362.172
+14,Architecture,49,Utah,117592.41,.3013455,90362.172
+55,Social Sciences,49,Utah,119762.7,.32536325,90362.172
+15,"Area, Ethnic, and Civilization Studies",49,Utah,117479.88,.3001003,90362.172
+35,Library Science,49,Utah,152895.98,.69203526,90362.172
+20,Communication Technologies,49,Utah,113527.22,.25635779,90362.172
+36,Biology and Life Sciences,49,Utah,134165.42,.48475215,90362.172
+64,History,49,Utah,108826.12,.20433272,90362.172
+23,Education Administration and Teaching,49,Utah,109227.78,.20877774,90362.172
+24,Engineering,49,Utah,133549.11,.47793153,90362.172
+61,Medical and Health Sciences and Services,49,Utah,126562.53,.40061408,90362.172
+22,Cosmetology Services and Culinary Arts,49,Utah,116935.62,.29407707,90362.172
+59,Transportation Sciences and Technologies,49,Utah,129387.7,.43187904,90362.172
+26,Linguistics and Foreign Languages,49,Utah,113695.23,.25821713,90362.172
+49,Theology and Religious Vocations,49,Utah,96697.906,.070114918,90362.172
+13,Environment and Natural Resources,49,Utah,117155.05,.29650548,90362.172
+11,Agriculture,49,Utah,117047.27,.29531267,90362.172
+33,"English Language, Literature, and Composition",49,Utah,111246.37,.23111656,90362.172
+41,"Physical Fitness, Parks, Recreation, and Leisure",49,Utah,98231.563,.087087199,90362.172
+40,Interdisciplinary and Multi-Disciplinary Studies (General),49,Utah,110111.3,.21855527,90362.172
+56,Construction Services,49,Utah,129323.4,.43116745,90362.172
+99,Economics,49,Utah,141230.73,.5629409,90362.172
+53,Criminal Justice and Fire Protection,49,Utah,110552.67,.22343974,90362.172
+25,Engineering Technologies,49,Utah,118296.63,.30913889,90362.172
+52,Psychology,49,Utah,111360.42,.23237874,90362.172
+50,Physical Sciences,49,Utah,126537.19,.40033361,90362.172
+54,"Public Affairs, Policy, and Social Work",49,Utah,106541.61,.17905101,90362.172
+19,Communications,49,Utah,117528.92,.30064297,90362.172
+64,History,50,Vermont,82791.117,.077108726,76864.219
+22,Cosmetology Services and Culinary Arts,50,Vermont,85783.781,.11604307,76864.219
+26,Linguistics and Foreign Languages,50,Vermont,84255.055,.096154466,76864.219
+11,Agriculture,50,Vermont,87945.211,.14416319,76864.219
+56,Construction Services,50,Vermont,95043.766,.23651505,76864.219
+21,Computer and Information Sciences,50,Vermont,88659.211,.15345235,76864.219
+14,Architecture,50,Vermont,87786.914,.14210375,76864.219
+37,Mathematics and Statistics,50,Vermont,98307.852,.2789807,76864.219
+24,Engineering,50,Vermont,97676.469,.27076647,76864.219
+61,Medical and Health Sciences and Services,50,Vermont,99517.734,.29472119,76864.219
+36,Biology and Life Sciences,50,Vermont,94397.75,.22811045,76864.219
+62,Business,50,Vermont,97460.914,.26796204,76864.219
+32,Law,50,Vermont,90106.602,.17228277,76864.219
+99,Economics,50,Vermont,94482.945,.22921887,76864.219
+20,Communication Technologies,50,Vermont,88059.93,.14565571,76864.219
+19,Communications,50,Vermont,88458.578,.15084206,76864.219
+40,Interdisciplinary and Multi-Disciplinary Studies (General),50,Vermont,82189.813,.06928575,76864.219
+23,Education Administration and Teaching,50,Vermont,86197.492,.12142546,76864.219
+48,Philosophy and Religious Studies,50,Vermont,89729.359,.16737485,76864.219
+29,Family and Consumer Sciences,50,Vermont,85569.258,.11325216,76864.219
+49,Theology and Religious Vocations,50,Vermont,74630.438,-.029061401,76864.219
+25,Engineering Technologies,50,Vermont,91074.773,.18487868,76864.219
+33,"English Language, Literature, and Composition",50,Vermont,84549.586,.099986307,76864.219
+55,Social Sciences,50,Vermont,88170.656,.14709623,76864.219
+50,Physical Sciences,50,Vermont,91938.289,.19611298,76864.219
+41,"Physical Fitness, Parks, Recreation, and Leisure",50,Vermont,79887.008,.039326325,76864.219
+13,Environment and Natural Resources,50,Vermont,87937.555,.14406356,76864.219
+59,Transportation Sciences and Technologies,50,Vermont,95678.164,.24476862,76864.219
+52,Psychology,50,Vermont,84065.789,.093692124,76864.219
+54,"Public Affairs, Policy, and Social Work",50,Vermont,83077.617,.080836028,76864.219
+53,Criminal Justice and Fire Protection,50,Vermont,87297.469,.13573608,76864.219
+60,Fine Arts,50,Vermont,74955.023,-.024838571,76864.219
+35,Library Science,50,Vermont,86204.547,.12151723,76864.219
+15,"Area, Ethnic, and Civilization Studies",50,Vermont,87716.594,.14118895,76864.219
+19,Communications,51,Virginia,123221.25,.14990182,107158.06
+22,Cosmetology Services and Culinary Arts,51,Virginia,114453.81,.068084031,107158.06
+62,Business,51,Virginia,136337.22,.27230015,107158.06
+37,Mathematics and Statistics,51,Virginia,142307.97,.32801923,107158.06
+61,Medical and Health Sciences and Services,51,Virginia,131226.39,.22460587,107158.06
+99,Economics,51,Virginia,158443.06,.47859213,107158.06
+52,Psychology,51,Virginia,113441.8,.058639854,107158.06
+40,Interdisciplinary and Multi-Disciplinary Studies (General),51,Virginia,122612.7,.14422278,107158.06
+21,Computer and Information Sciences,51,Virginia,145323.88,.35616368,107158.06
+15,"Area, Ethnic, and Civilization Studies",51,Virginia,123280.05,.15045059,107158.06
+51,"Nuclear, Industrial Radiology, and Biological Technologies",51,Virginia,122914.55,.1470397,107158.06
+23,Education Administration and Teaching,51,Virginia,98592.945,-.079929762,107158.06
+56,Construction Services,51,Virginia,147074.5,.3725006,107158.06
+25,Engineering Technologies,51,Virginia,139596.55,.30271626,107158.06
+35,Library Science,51,Virginia,114793.44,.071253419,107158.06
+20,Communication Technologies,51,Virginia,120835.82,.12764099,107158.06
+29,Family and Consumer Sciences,51,Virginia,103231.09,-.036646478,107158.06
+54,"Public Affairs, Policy, and Social Work",51,Virginia,112778.61,.052451011,107158.06
+55,Social Sciences,51,Virginia,139089.67,.29798606,107158.06
+41,"Physical Fitness, Parks, Recreation, and Leisure",51,Virginia,105023.01,-.019924337,107158.06
+49,Theology and Religious Vocations,51,Virginia,77794.922,-.27401713,107158.06
+24,Engineering,51,Virginia,156381.8,.4593564,107158.06
+64,History,51,Virginia,122760.38,.145601,107158.06
+53,Criminal Justice and Fire Protection,51,Virginia,120921,.12843587,107158.06
+11,Agriculture,51,Virginia,123028.59,.14810388,107158.06
+14,Architecture,51,Virginia,123514.36,.15263711,107158.06
+13,Environment and Natural Resources,51,Virginia,123028.73,.14810519,107158.06
+33,"English Language, Literature, and Composition",51,Virginia,115579.37,.078587681,107158.06
+26,Linguistics and Foreign Languages,51,Virginia,119757.57,.11757874,107158.06
+32,Law,51,Virginia,123912.7,.15635438,107158.06
+59,Transportation Sciences and Technologies,51,Virginia,144012.69,.34392762,107158.06
+60,Fine Arts,51,Virginia,95049.992,-.11299264,107158.06
+36,Biology and Life Sciences,51,Virginia,140804.05,.31398469,107158.06
+48,Philosophy and Religious Studies,51,Virginia,117276.7,.094427213,107158.06
+50,Physical Sciences,51,Virginia,141073.98,.3165037,107158.06
+13,Environment and Natural Resources,53,Washington,119286.54,.099596217,108482.13
+11,Agriculture,53,Washington,123936.11,.14245643,108482.13
+40,Interdisciplinary and Multi-Disciplinary Studies (General),53,Washington,127655.98,.17674659,108482.13
+60,Fine Arts,53,Washington,94753.422,-.12655273,108482.13
+53,Criminal Justice and Fire Protection,53,Washington,119412.45,.10075684,108482.13
+99,Economics,53,Washington,154197.73,.42141137,108482.13
+33,"English Language, Literature, and Composition",53,Washington,111254.71,.025557954,108482.13
+23,Education Administration and Teaching,53,Washington,108472.52,-.000088556175,108482.13
+52,Psychology,53,Washington,117478.75,.082931764,108482.13
+21,Computer and Information Sciences,53,Washington,175416.2,.61700553,108482.13
+59,Transportation Sciences and Technologies,53,Washington,151242.42,.39416897,108482.13
+50,Physical Sciences,53,Washington,145529.69,.34150836,108482.13
+19,Communications,53,Washington,124329.2,.14607999,108482.13
+51,"Nuclear, Industrial Radiology, and Biological Technologies",53,Washington,124776.06,.1501992,108482.13
+25,Engineering Technologies,53,Washington,139782.47,.28852981,108482.13
+36,Biology and Life Sciences,53,Washington,144147.38,.32876605,108482.13
+26,Linguistics and Foreign Languages,53,Washington,113447.99,.045775823,108482.13
+56,Construction Services,53,Washington,148509.19,.36897367,108482.13
+35,Library Science,53,Washington,107607.12,-.0080660079,108482.13
+64,History,53,Washington,121674.52,.1216088,108482.13
+15,"Area, Ethnic, and Civilization Studies",53,Washington,123202.56,.1356945,108482.13
+54,"Public Affairs, Policy, and Social Work",53,Washington,110085.98,.014784407,108482.13
+41,"Physical Fitness, Parks, Recreation, and Leisure",53,Washington,108090.09,-.0036138615,108482.13
+24,Engineering,53,Washington,167619.73,.54513675,108482.13
+48,Philosophy and Religious Studies,53,Washington,113554.27,.046755493,108482.13
+62,Business,53,Washington,138030.84,.27238315,108482.13
+20,Communication Technologies,53,Washington,123992.29,.1429743,108482.13
+14,Architecture,53,Washington,128511.95,.18463704,108482.13
+32,Law,53,Washington,125231.91,.1544012,108482.13
+29,Family and Consumer Sciences,53,Washington,101880.55,-.060854081,108482.13
+22,Cosmetology Services and Culinary Arts,53,Washington,111228.57,.025316928,108482.13
+49,Theology and Religious Vocations,53,Washington,84641.633,-.21976431,108482.13
+55,Social Sciences,53,Washington,126405.88,.16522302,108482.13
+37,Mathematics and Statistics,53,Washington,154383.58,.42312452,108482.13
+61,Medical and Health Sciences and Services,53,Washington,139099.77,.28223664,108482.13
+53,Criminal Justice and Fire Protection,54,West Virginia,92705.773,.18724324,78084.906
+20,Communication Technologies,54,West Virginia,96169.711,.23160438,78084.906
+14,Architecture,54,West Virginia,96200.336,.23199657,78084.906
+33,"English Language, Literature, and Composition",54,West Virginia,91334.484,.16968165,78084.906
+29,Family and Consumer Sciences,54,West Virginia,88944.141,.13906962,78084.906
+22,Cosmetology Services and Culinary Arts,54,West Virginia,94405.523,.20901114,78084.906
+49,Theology and Religious Vocations,54,West Virginia,79629.93,.019786483,78084.906
+60,Fine Arts,54,West Virginia,74229.32,-.049376812,78084.906
+50,Physical Sciences,54,West Virginia,111806.66,.43186006,78084.906
+32,Law,54,West Virginia,97599.211,.24991137,78084.906
+48,Philosophy and Religious Studies,54,West Virginia,88883.914,.13829824,78084.906
+36,Biology and Life Sciences,54,West Virginia,113837.2,.45786434,78084.906
+13,Environment and Natural Resources,54,West Virginia,96121.094,.23098175,78084.906
+56,Construction Services,54,West Virginia,112173.84,.43656248,78084.906
+35,Library Science,54,West Virginia,92244.852,.18134032,78084.906
+41,"Physical Fitness, Parks, Recreation, and Leisure",54,West Virginia,95825.391,.22719482,78084.906
+51,"Nuclear, Industrial Radiology, and Biological Technologies",54,West Virginia,106631.62,.36558551,78084.906
+59,Transportation Sciences and Technologies,54,West Virginia,106590.25,.36505577,78084.906
+24,Engineering,54,West Virginia,111242.6,.42463642,78084.906
+37,Mathematics and Statistics,54,West Virginia,99959.273,.28013566,78084.906
+62,Business,54,West Virginia,101364.45,.29813117,78084.906
+25,Engineering Technologies,54,West Virginia,96680.945,.23815152,78084.906
+19,Communications,54,West Virginia,96295.633,.23321694,78084.906
+26,Linguistics and Foreign Languages,54,West Virginia,94100.539,.20510532,78084.906
+40,Interdisciplinary and Multi-Disciplinary Studies (General),54,West Virginia,91668.375,.17395763,78084.906
+15,"Area, Ethnic, and Civilization Studies",54,West Virginia,96061.719,.2302213,78084.906
+55,Social Sciences,54,West Virginia,99352.836,.2723693,78084.906
+61,Medical and Health Sciences and Services,54,West Virginia,115847.66,.4836114,78084.906
+64,History,54,West Virginia,87433.172,.11971924,78084.906
+99,Economics,54,West Virginia,105699.82,.35365242,78084.906
+23,Education Administration and Teaching,54,West Virginia,93367.031,.19571166,78084.906
+54,"Public Affairs, Policy, and Social Work",54,West Virginia,91816.125,.17584981,78084.906
+52,Psychology,54,West Virginia,93777.438,.20096749,78084.906
+21,Computer and Information Sciences,54,West Virginia,95303.156,.22050679,78084.906
+11,Agriculture,54,West Virginia,95847.258,.22747481,78084.906
+56,Construction Services,55,Wisconsin,124528.47,.46118987,85224.016
+24,Engineering,55,Wisconsin,130554.55,.53189868,85224.016
+26,Linguistics and Foreign Languages,55,Wisconsin,105477.55,.23765056,85224.016
+36,Biology and Life Sciences,55,Wisconsin,125537.27,.47302687,85224.016
+33,"English Language, Literature, and Composition",55,Wisconsin,102196.2,.19914795,85224.016
+60,Fine Arts,55,Wisconsin,88555.023,.039085343,85224.016
+52,Psychology,55,Wisconsin,106142.5,.24545296,85224.016
+49,Theology and Religious Vocations,55,Wisconsin,83524.961,-.019936325,85224.016
+35,Library Science,55,Wisconsin,107081.53,.25647128,85224.016
+25,Engineering Technologies,55,Wisconsin,118870.74,.39480332,85224.016
+23,Education Administration and Teaching,55,Wisconsin,104115.66,.22167046,85224.016
+40,Interdisciplinary and Multi-Disciplinary Studies (General),55,Wisconsin,110450.25,.29599917,85224.016
+54,"Public Affairs, Policy, and Social Work",55,Wisconsin,102140.45,.19849366,85224.016
+41,"Physical Fitness, Parks, Recreation, and Leisure",55,Wisconsin,105818.4,.24164996,85224.016
+20,Communication Technologies,55,Wisconsin,108232.89,.26998109,85224.016
+11,Agriculture,55,Wisconsin,111284.01,.30578226,85224.016
+61,Medical and Health Sciences and Services,55,Wisconsin,127281.44,.49349257,85224.016
+59,Transportation Sciences and Technologies,55,Wisconsin,138157.44,.62110931,85224.016
+22,Cosmetology Services and Culinary Arts,55,Wisconsin,110523.34,.29685676,85224.016
+15,"Area, Ethnic, and Civilization Studies",55,Wisconsin,111298.33,.30595025,85224.016
+62,Business,55,Wisconsin,123545.71,.44965845,85224.016
+37,Mathematics and Statistics,55,Wisconsin,117044.79,.37337798,85224.016
+48,Philosophy and Religious Studies,55,Wisconsin,102026.73,.19715935,85224.016
+50,Physical Sciences,55,Wisconsin,122295.92,.43499368,85224.016
+14,Architecture,55,Wisconsin,111214,.30496082,85224.016
+53,Criminal Justice and Fire Protection,55,Wisconsin,102839.54,.20669672,85224.016
+19,Communications,55,Wisconsin,111099.86,.30362153,85224.016
+51,"Nuclear, Industrial Radiology, and Biological Technologies",55,Wisconsin,138740.59,.62795186,85224.016
+99,Economics,55,Wisconsin,131825.36,.54681003,85224.016
+21,Computer and Information Sciences,55,Wisconsin,118872.89,.39482853,85224.016
+55,Social Sciences,55,Wisconsin,107532.05,.26175767,85224.016
+32,Law,55,Wisconsin,110172.98,.29274568,85224.016
+64,History,55,Wisconsin,97743.953,.14690618,85224.016
+29,Family and Consumer Sciences,55,Wisconsin,105258.01,.23507446,85224.016
+13,Environment and Natural Resources,55,Wisconsin,109924.53,.28983042,85224.016
+62,Business,56,Wyoming,87457.789,.12336954,77853.086
+20,Communication Technologies,56,Wyoming,85732.008,.10120243,77853.086
+21,Computer and Information Sciences,56,Wyoming,85542.914,.098773614,77853.086
+19,Communications,56,Wyoming,85768.234,.10166778,77853.086
+26,Linguistics and Foreign Languages,56,Wyoming,86302.305,.10852776,77853.086
+49,Theology and Religious Vocations,56,Wyoming,86433.586,.11021397,77853.086
+23,Education Administration and Teaching,56,Wyoming,86341.578,.10903219,77853.086
+13,Environment and Natural Resources,56,Wyoming,86098.508,.10591,77853.086
+61,Medical and Health Sciences and Services,56,Wyoming,90484.367,.16224509,77853.086
+32,Law,56,Wyoming,86091.586,.1058211,77853.086
+53,Criminal Justice and Fire Protection,56,Wyoming,85876.672,.10306063,77853.086
+22,Cosmetology Services and Culinary Arts,56,Wyoming,86104.109,.10598196,77853.086
+37,Mathematics and Statistics,56,Wyoming,84209.234,.081642896,77853.086
+29,Family and Consumer Sciences,56,Wyoming,86390.094,.10965539,77853.086
+52,Psychology,56,Wyoming,85712.594,.10095303,77853.086
+64,History,56,Wyoming,85763.773,.10161046,77853.086
+50,Physical Sciences,56,Wyoming,85497.625,.098191842,77853.086
+54,"Public Affairs, Policy, and Social Work",56,Wyoming,85904.344,.10341603,77853.086
+24,Engineering,56,Wyoming,80199.219,.030135391,77853.086
+15,"Area, Ethnic, and Civilization Studies",56,Wyoming,85674.195,.10045982,77853.086
+59,Transportation Sciences and Technologies,56,Wyoming,85882.18,.1031313,77853.086
+40,Interdisciplinary and Multi-Disciplinary Studies (General),56,Wyoming,84760.602,.088724986,77853.086
+55,Social Sciences,56,Wyoming,86037.547,.10512701,77853.086
+36,Biology and Life Sciences,56,Wyoming,78732.25,.011292647,77853.086
+56,Construction Services,56,Wyoming,86747.016,.11423993,77853.086
+48,Philosophy and Religious Studies,56,Wyoming,87385.867,.1224458,77853.086
+35,Library Science,56,Wyoming,85348.352,.096274458,77853.086
+41,"Physical Fitness, Parks, Recreation, and Leisure",56,Wyoming,84763.875,.088767096,77853.086
+60,Fine Arts,56,Wyoming,84809.617,.089354612,77853.086
+25,Engineering Technologies,56,Wyoming,84972.883,.09145169,77853.086
+33,"English Language, Literature, and Composition",56,Wyoming,88188.906,.13276055,77853.086
+51,"Nuclear, Industrial Radiology, and Biological Technologies",56,Wyoming,85581.984,.09927544,77853.086
+11,Agriculture,56,Wyoming,85760.43,.10156753,77853.086
+14,Architecture,56,Wyoming,85572.352,.099151686,77853.086
+99,Economics,56,Wyoming,96077.758,.23409058,77853.086
