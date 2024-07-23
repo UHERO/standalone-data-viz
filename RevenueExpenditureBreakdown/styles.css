@@ -1,0 +1,38 @@
+.tooltip {
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 580;
+    padding: 0.6em 1em;
+    background: #fff;
+    text-align: center;
+    line-height: 1.4em;
+    font-size: 0.9em;
+    border: 1px solid #ddd;
+    z-index: 10;
+    transition: all 0.1s ease-out;
+    pointer-events: none;
+}
+
+.tooltip:before {
+    content: '';
+    position: absolute;
+    bottom: 72.5%;
+    left: 0;
+    width: 12px;
+    height: 12px;
+    background: white;
+    border: 1px solid #ddd;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(135deg);
+    transform-origin: bottom left;
+    z-index: 10;
+}
+
+.tooltip-date {
+    margin-bottom: 0.2em;
+    font-weight: 600;
+    font-size: 1.1em;
+    line-height: 1.4em;
+}
