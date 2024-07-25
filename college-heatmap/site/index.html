@@ -12,6 +12,39 @@
 </head>
 
 <body>
+    <h1>Estimated Income by College Major</h1>
+    <h2 id="current-major"></h2>
+    <main id="wrapper">
+        <aside id="state-view" style="display: none;">
+
+            <h3 id="state-name">Hawaii</h3>
+            <h4>
+                <sh4an id="major-label">Selected Major:</span>
+                    <span id="major-value"></span>
+            </h4>
+
+            <div>
+                <span id="earnings-label">Est. Income:</span>
+                <span id="earnings-value"></span>
+            </div>
+            <div>
+                <span id="major-rank-label">Major ranks <span id="major-rank-value"></span> in the state</span>
+            </div>
+            <div>
+                <span id="state-rank-label">State ranks <span id="state-rank-value"></span> for this major</span>
+            </div>
+            <h4 id="top-title">Top Majors</h4>
+            <div id="top-1" class="flex-row"></div>
+            <div id="top-2" class="flex-row">Ipsum</div>
+            <div id="top-3" class="flex-row">Dolorem</div>
+            <h4 id="bottom-title">Bottom Majors</h4>
+            <div id="bottom-1" class="flex-row">Lorem</div>
+            <div id="bottom-2" class="flex-row">Ipsum</div>
+            <div id="bottom-3" class="flex-row">Dolores</div>
+        </aside>
+
+    </main>
+
     <div class="dropdown">
         <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
@@ -26,8 +59,9 @@
     </div>
     <p id="datasetLabel"></p>
 
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.min.js"></script>
-    <script type="module" src="./chart.js"></script>
+    <script type="module" src="./revising.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
