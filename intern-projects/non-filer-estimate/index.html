@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .listener-rect {
+      fill: transparent;
+    }
+
+    .tooltip-circle {
+      opacity: 0;
+      stroke-width: 2;
+      stroke: cornflowerblue;
+      fill: white;
+    }
+
+    .tooltip {
+      opacity: 0;
+      position: absolute;
+      top: -14px;
+      left: 0;
+      padding: 0.6em 1em;
+      background: #fff;
+      text-align: center;
+      line-height: 1.4em;
+      font-size: 0.9em;
+      border: 1px solid #ddd;
+      z-index: 10;
+      transition: all 0.1s ease-out;
+      pointer-events: none;
+    }
+
+    .tooltip:before {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      width: 12px;
+      height: 12px;
+      background: white;
+      border: 1px solid #ddd;
+      border-top-color: transparent;
+      border-left-color: transparent;
+      transform: translate(-50%, 50%) rotate(45deg);
+      transform-origin: center center;
+      z-index: 10;
+    }
+
+    .tooltip-date {
+      margin-bottom: 0.2em;
+      font-weight: 600;
+      font-size: 1.1em;
+      line-height: 1.4em;
+    }
+  </style>
+  </link>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <title>Non-Filer Estimate</title>
+</head>
+
+<body class="container">
+  <div id="title">
+    <h1>Non-Filer Estimate</h1>
+    <p style="color: #555555;">Estimate of Non-Filers from 2010-2022 in Hawai'i</p>
+  </div>
+  <div class="row">
+    <div id="button-wrapper" class="button-wrapper">
+      <input type="radio" class="btn-check" name="options-base" id="btn-check-graph" checked autocomplete="off">
+      <label class="btn" for="btn-check-graph">Graph</label>
+      <input type="radio" class="btn-check" name="options-base" id="btn-check-table" autocomplete="off">
+      <label class="btn" for="btn-check-table">Table</label>
+    </div>
+  </div>
+  <div class="row">
+    <div id="wrapper" class="wrapper col g-col-8" style="position: relative;">
+      <div id="tooltip" class="tooltip">
+        <div class="tooltip-year" style="font-weight: bold;">
+          Year: <span id="year"></span>
+        </div>
+        <div class="tooltip-non-filers">
+          Non-Filers: <span id="non-filers"></span>
+        </div>
+        <div class="tooltip-non-filer-credit-value">
+          Value of Non-Filer Credits: <span id="non-filer-credit-value"></span>
+        </div>
+        <div class="tooltip-extra">
+          Extra: <span id="extra"></span>
+        </div>
+      </div>
+    </div>
+    <div class="col g-col-4" style="position: relative;">
+      <p class="d-inline-flex gap-1">
+        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample"
+          aria-expanded="false" aria-controls="collapseExample">
+          Estimation Method
+        </button>
+      </p>
+      <div class="collapse" id="collapseExample">
+        <div class="card card-body">
+          We obtain this estimate by starting with a US Census Bureau estimate of the total resident population in the
+          state on July 1, 2021. We then subtract the population accounted for on resident tax returns (resident tax
+          filers and their dependents), an estimate of the number of eligible people accounted for on non-resident tax
+          returns, and an estimate of the total remaining ineligible population. This last total includes some members
+          of the Armed Forces (and their dependents), undocumented immigrants, and some out-of-state college students
+          under the age of 24. We generally adopt a more conservative approach where numbers are uncertain, so our
+          estimates should be a lower bound on the number of unclaimed eligible residents.
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="module">
+    import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+    function switchViews() {
+      drawLineChart();
+      function clear() {
+        const oldGraph = document.getElementById("wrapper-svg");
+        const removeGraph = oldGraph != null ? oldGraph.remove() : null;
+        const oldTable = document.getElementById("wrapper-table");
+        const removeTable = oldTable != null ? oldTable.remove() : null;
+      }
+
+      function showGraph() {
+        clear();
+        drawLineChart();
+      }
+
+      function showTable() {
+        clear();
+        drawGraph();
+      }
+
+      const buttonShowGraph = d3.select("#btn-check-graph");
+      const buttonShowTable = d3.select("#btn-check-table");
+      buttonShowGraph.node().addEventListener("click", showGraph);
+      buttonShowTable.node().addEventListener("click", showTable);
+    }
+
+    async function drawLineChart() {
+
+      //#region Access Data
+      const data = await d3.csv("./nonFilerEstimate.csv");
+
+      const parseDate = d3.timeParse("%Y");
+      const xAccessor = d => parseDate(d.Year);
+      const yAccessor = d => d.NonfilersAndDependents;
+      //#endregion
+
+      //#region Create Chart Dimensions
+      const width = 600;
+      let dimensions = {
+        width: width,
+        height: width * 0.6,
+        margin: {
+          top: 30,
+          right: 40,
+          bottom: 50,
+          left: 70,
+        },
+      };
+      dimensions.boundedWidth = dimensions.width - dimensions.margin.left - dimensions.margin.right;
+      dimensions.boundedHeight = dimensions.height - dimensions.margin.top - dimensions.margin.bottom;
+      //#endregion
+
+      //#region Draw Canvas
+      const wrapper = d3.select("#wrapper")
+        .append("svg")
+        .attr("id", "wrapper-svg")
+        .attr("width", dimensions.width)
+        .attr("height", dimensions.height);
+
+      const bounds = wrapper.append("g")
+        .style("transform", `translate(${dimensions.margin.left
+          }px, ${dimensions.margin.top
+          }px)`);
+      //#endregion
+
+      //#region Scales
+      const xScale = d3.scaleTime()
+        .domain(d3.extent(data, xAccessor))
+        .range([0, dimensions.boundedWidth])
+        .nice();
+
+      const yScale = d3.scaleLinear()
+        .domain(d3.extent(data, yAccessor))
+        .range([dimensions.boundedHeight, 0])
+        .nice();
+      //#endregion
+
+      //#region Draw Data
+      const lineGenerator = d3.line()
+        .x(d => xScale(xAccessor(d)))
+        .y(d => yScale(yAccessor(d)));
+
+      const line = bounds.append("path")
+        .attr("d", d => lineGenerator(data))
+        .attr("fill", "none")
+        .attr("stroke", "cornflowerblue")
+        .attr("stroke-width", 2);
+      //#endregion
+
+      //#region Draw Peripherals
+      const xAxisGenerator = d3.axisBottom()
+        .scale(xScale);
+
+      const xAxis = bounds.append("g")
+        .call(xAxisGenerator)
+        .style("transform", `translateY(${dimensions.boundedHeight}px)`);
+
+      const xAxisLabel = xAxis.append("text")
+        .attr("x", dimensions.boundedWidth / 2)
+        .attr("y", dimensions.margin.bottom - 10)
+        .attr("fill", "black")
+        .style("font-size", "1.2em")
+        .text("Year");
+
+      const yAxisGenerator = d3.axisLeft()
+        .scale(yScale);
+
+      const yAxis = bounds.append("g")
+        .call(yAxisGenerator);
+
+      const yAxisLabel = yAxis.append("text")
+        .attr("x", -dimensions.boundedHeight / 2)
+        .attr("y", -dimensions.margin.left + 10)
+        .attr("fill", "black")
+        .style("font-size", "1.2em")
+        .text("Non-filers and Dependents")
+        .style("transform", "rotate(-90deg)")
+        .style("text-anchor", "middle");
+
+      const mean = d3.mean(data, yAccessor)
+      const meanLine = bounds.append("line")
+        .attr("x1", 0)
+        .attr("x2", dimensions.boundedWidth)
+        .attr("y1", yScale(mean))
+        .attr("y2", yScale(mean))
+        .attr("stroke", "black")
+        .style("stroke-dasharray", "4px 2px")
+        .style("opacity", 0.7)
+
+      const meanLabel = bounds.append("text")
+        .attr("x", dimensions.boundedWidth + 20)
+        .attr("y", yScale(mean) + 2.5)
+        .text("mean")
+        .style("text-anchor", "middle")
+        .style("font-family", "sans-serif")
+        .attr("fill", "black")
+        .style("font-size", "12px")
+        .attr("role", "presentation")
+        .attr("aria-hidden", true)
+      //#endregion
+
+      //#region Interactions
+      const listenerRect = bounds.append("rect")
+        .attr("class", "listener-rect")
+        .attr("width", dimensions.boundedWidth)
+        .attr("height", dimensions.boundedHeight)
+        .on("mousemove", onMouseMove)
+        .on("mouseleave", onMouseLeave);
+
+      const tooltip = d3.select("#tooltip");
+
+      const tooltipCircle = bounds.append("circle")
+        .attr("class", "tooltip-circle")
+        .attr("r", 4)
+        .on("mousemove", onMouseMove);
+
+      function onMouseMove(event, d) {
+        const mousePosition = d3.pointer(event);
+        const hoveredDate = xScale.invert(mousePosition[0]);
+
+        const getDistanceFromHoveredDate = d => (Math.abs(xAccessor(d) - hoveredDate));
+        const closestIndex = d3.leastIndex(
+          data,
+          (a, b) => getDistanceFromHoveredDate(a) - getDistanceFromHoveredDate(b)
+        );
+        const closestDataPoint = data[closestIndex];
+
+        const formatDate = d3.timeFormat("%Y");
+        tooltip.select("#year")
+          .text(formatDate(xAccessor(closestDataPoint)));
+
+        tooltip.select("#non-filers")
+          .text(`${yAccessor(closestDataPoint)} People`);
+
+        tooltip.select("#non-filer-credit-value")
+          .text(`$${d3.format(",")(closestDataPoint.ValueOfNonfilerCredits)}`);
+
+        const x = xScale(xAccessor(closestDataPoint)) + dimensions.margin.left;
+        const y = yScale(yAccessor(closestDataPoint)) + dimensions.margin.top;
+
+        tooltip.style("transform", `translate(calc(-50% + ${x}px), calc(-100% + ${y}px))`);
+
+        tooltip.style("opacity", 1);
+
+        tooltipCircle.attr("cx", xScale(xAccessor(closestDataPoint)))
+          .attr("cy", yScale(yAccessor(closestDataPoint)))
+          .style("opacity", 1);
+      }
+
+      function onMouseLeave() {
+        tooltip.style("opacity", 0);
+        tooltipCircle.style("opacity", 0);
+      }
+      //#endregion
+    }
+
+    async function drawGraph() {
+      const data = await d3.csv("./nonFilerEstimate.csv");
+
+      const wrapper = d3.select("#wrapper");
+
+      const table = wrapper.append("table")
+        .attr("class", "table table-striped")
+        .attr("id", "wrapper-table");
+
+      const tableHead = table.append("thead");
+      const tableBody = table.append("tbody");
+
+      const headCells = ["Year", "Non-filers and Dependents", "Value of Non-filer Credits ($)"];
+      const headKeys = ["Year", "NonfilersAndDependents", "ValueOfNonfilerCredits"];
+      let row = [];
+      let rowContents = [];
+      for (let year = 0; year < 14; year++) {
+        if (year == 0) {
+          row[year] = tableHead.append("tr");
+        } else {
+          row[year] = tableBody.append("tr");
+        }
+        rowContents[year] = [];
+        for (let i = 0; i < 3; i++) {
+          if (year == 0) {
+            rowContents[year][i] = row[year].append("th")
+              .attr("scope", "col")
+              .text(headCells[i]);
+          } else if (i == 0) {
+            rowContents[year][i] = row[year].append("th")
+              .attr("scope", "row")
+              .text(`${year + 2009}`);
+          } else {
+            rowContents[year][i] = row[year].append("td")
+              .text(d3.format(",")(data[year - 1][headKeys[i]]));
+          }
+        }
+      }
+    }
+
+    switchViews();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
